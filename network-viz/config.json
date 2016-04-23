@@ -1,0 +1,57 @@
+{
+    "type": "network",
+    "data": "data/test.gexf",
+    "version": "1.0",
+    "logo": {
+        "file": "images/logo-airjobs.jpg",
+        "link": "http://www.oii.ox.ac.uk/",
+        "text": "Airjobs"
+    },
+    "text": {
+        "title": "Network analysis of Onet jobs",
+        "intro": "Onet database lists all US jobs. This visualization lets user navigate between similar jobs. Jobs are connected according with a skils index. ",
+        "more": "Hey hey ! This is a lot more on this visualization!"
+    },
+    "legend": {
+        "nodeLabel": "A job",
+        "edgeLabel": "A similar job according to Onet skills database",
+        "colorLabel": "Colour represents the job category"
+    },
+    "features": {
+        "search": true,
+        "hoverBehavior": "default",
+        "groupSelectorAttribute": "color"
+    },
+    "search":{
+    	"fulltext":true
+    },
+    "informationPanel": {
+        "groupByEdgeDirection": false,
+        "imageAttribute": "Image File"
+    },
+    "sigma": {
+    	"drawingProperties":{    
+			"defaultLabelColor": "#000",
+			"defaultLabelSize": 14,
+			"defaultLabelBGColor": "#ddd",
+			"defaultHoverLabelBGColor": "#002147",
+			"defaultLabelHoverColor": "#fff",
+			"labelThreshold": 10,
+			"defaultEdgeType": "curve",
+			"hoverFontStyle": "bold",
+			"fontStyle": "bold",
+			"activeFontStyle": "bold"
+		},
+		"graphProperties":{
+			"minNodeSize": 1,
+			"maxNodeSize": 7,
+			"minEdgeSize": 0.2,
+			"maxEdgeSize": 0.5
+		},		
+		"mouseProperties":{
+			"minRatio": 0.75, 
+			"maxRatio": 20
+		}
+    }
+    
+}
