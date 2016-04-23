@@ -1,0 +1,31 @@
+
+<html>
+
+<head>
+
+<script src="js/sigma.js"></script>
+<script src="js/sigma.parsers.gexf.js"></script>
+
+</head>
+
+<div id="sigma-container"></div>
+
+
+  <script>
+
+  sigma.parsers.gexf(
+    '/data/test.gexf',
+    { // Here is the ID of the DOM element that
+      // will contain the graph:
+      container: 'sigma-container'
+    },
+    function(s) {
+      // This function will be executed when the
+      // graph is displayed, with "s" the related
+      // sigma instance.
+    }
+  );
+</script>
+
+
+</html>
