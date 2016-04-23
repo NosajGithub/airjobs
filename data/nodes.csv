@@ -1,0 +1,955 @@
+,Id,Title,Url
+0,11-1011.00,Chief Executives,http://www.bls.gov/soc/2010/soc111011.htm
+70,11-1011.03,Chief Sustainability Officers,http://www.bls.gov/soc/2010/soc111011.htm
+140,11-1021.00,General and Operations Managers,http://www.bls.gov/soc/2010/soc111021.htm
+210,11-2011.00,Advertising and Promotions Managers,http://www.bls.gov/soc/2010/soc112011.htm
+280,11-2021.00,Marketing Managers,http://www.bls.gov/soc/2010/soc112021.htm
+350,11-2022.00,Sales Managers,http://www.bls.gov/soc/2010/soc112022.htm
+420,11-2031.00,Public Relations and Fundraising Managers,http://www.bls.gov/soc/2010/soc112031.htm
+490,11-3011.00,Administrative Services Managers,http://www.bls.gov/soc/2010/soc113011.htm
+560,11-3021.00,Computer and Information Systems Managers,http://www.bls.gov/soc/2010/soc113021.htm
+630,11-3031.01,Treasurers and Controllers,http://www.bls.gov/soc/2010/soc113031.htm
+700,11-3031.02,"Financial Managers, Branch or Department",http://www.bls.gov/soc/2010/soc113031.htm
+770,11-3051.00,Industrial Production Managers,http://www.bls.gov/soc/2010/soc113051.htm
+840,11-3051.01,Quality Control Systems Managers,http://www.bls.gov/soc/2010/soc113051.htm
+910,11-3051.02,Geothermal Production Managers,http://www.bls.gov/soc/2010/soc113051.htm
+980,11-3051.04,Biomass Power Plant Managers,http://www.bls.gov/soc/2010/soc113051.htm
+1050,11-3061.00,Purchasing Managers,http://www.bls.gov/soc/2010/soc113061.htm
+1120,11-3071.01,Transportation Managers,http://www.bls.gov/soc/2010/soc113071.htm
+1190,11-3071.02,Storage and Distribution Managers,http://www.bls.gov/soc/2010/soc113071.htm
+1260,11-3071.03,Logistics Managers,http://www.bls.gov/soc/2010/soc113071.htm
+1330,11-3111.00,Compensation and Benefits Managers,http://www.bls.gov/soc/2010/soc113111.htm
+1400,11-3121.00,Human Resources Managers,http://www.bls.gov/soc/2010/soc113121.htm
+1470,11-3131.00,Training and Development Managers,http://www.bls.gov/soc/2010/soc113131.htm
+1540,11-9013.01,Nursery and Greenhouse Managers,http://www.bls.gov/soc/2010/soc119013.htm
+1610,11-9013.02,Farm and Ranch Managers,http://www.bls.gov/soc/2010/soc119013.htm
+1680,11-9013.03,Aquacultural Managers,http://www.bls.gov/soc/2010/soc119013.htm
+1750,11-9021.00,Construction Managers,http://www.bls.gov/soc/2010/soc119021.htm
+1820,11-9031.00,"Education Administrators, Preschool and Childcare Center/Program",http://www.bls.gov/soc/2010/soc119031.htm
+1890,11-9032.00,"Education Administrators, Elementary and Secondary School",http://www.bls.gov/soc/2010/soc119032.htm
+1960,11-9033.00,"Education Administrators, Postsecondary",http://www.bls.gov/soc/2010/soc119033.htm
+2030,11-9039.01,Distance Learning Coordinators,http://www.bls.gov/soc/2010/soc119039.htm
+2100,11-9039.02,Fitness and Wellness Coordinators,http://www.bls.gov/soc/2010/soc119039.htm
+2170,11-9041.00,Architectural and Engineering Managers,http://www.bls.gov/soc/2010/soc119041.htm
+2240,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,http://www.bls.gov/soc/2010/soc119041.htm
+2310,11-9051.00,Food Service Managers,http://www.bls.gov/soc/2010/soc119051.htm
+2380,11-9061.00,Funeral Service Managers,http://www.bls.gov/soc/2010/soc119061.htm
+2450,11-9071.00,Gaming Managers,http://www.bls.gov/soc/2010/soc119071.htm
+2520,11-9081.00,Lodging Managers,http://www.bls.gov/soc/2010/soc119081.htm
+2590,11-9111.00,Medical and Health Services Managers,http://www.bls.gov/soc/2010/soc119111.htm
+2660,11-9121.00,Natural Sciences Managers,http://www.bls.gov/soc/2010/soc119121.htm
+2730,11-9121.01,Clinical Research Coordinators,http://www.bls.gov/soc/2010/soc119121.htm
+2800,11-9121.02,Water Resource Specialists,http://www.bls.gov/soc/2010/soc119121.htm
+2870,11-9131.00,Postmasters and Mail Superintendents,http://www.bls.gov/soc/2010/soc119131.htm
+2940,11-9141.00,"Property, Real Estate, and Community Association Managers",http://www.bls.gov/soc/2010/soc119141.htm
+3010,11-9151.00,Social and Community Service Managers,http://www.bls.gov/soc/2010/soc119151.htm
+3080,11-9161.00,Emergency Management Directors,http://www.bls.gov/soc/2010/soc119161.htm
+3150,11-9199.01,Regulatory Affairs Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3220,11-9199.02,Compliance Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3290,11-9199.03,Investment Fund Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3360,11-9199.04,Supply Chain Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3430,11-9199.07,Security Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3500,11-9199.08,Loss Prevention Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3570,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,http://www.bls.gov/soc/2010/soc119199.htm
+3640,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",http://www.bls.gov/soc/2010/soc131011.htm
+3710,13-1021.00,"Buyers and Purchasing Agents, Farm Products",http://www.bls.gov/soc/2010/soc131021.htm
+3780,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",http://www.bls.gov/soc/2010/soc131022.htm
+3850,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",http://www.bls.gov/soc/2010/soc131023.htm
+3920,13-1031.01,"Claims Examiners, Property and Casualty Insurance",http://www.bls.gov/soc/2010/soc131031.htm
+3990,13-1031.02,"Insurance Adjusters, Examiners, and Investigators",http://www.bls.gov/soc/2010/soc131031.htm
+4060,13-1032.00,"Insurance Appraisers, Auto Damage",http://www.bls.gov/soc/2010/soc131032.htm
+4130,13-1041.01,Environmental Compliance Inspectors,http://www.bls.gov/soc/2010/soc131041.htm
+4200,13-1041.02,Licensing Examiners and Inspectors,http://www.bls.gov/soc/2010/soc131041.htm
+4270,13-1041.03,Equal Opportunity Representatives and Officers,http://www.bls.gov/soc/2010/soc131041.htm
+4340,13-1041.04,Government Property Inspectors and Investigators,http://www.bls.gov/soc/2010/soc131041.htm
+4410,13-1041.06,Coroners,http://www.bls.gov/soc/2010/soc131041.htm
+4480,13-1041.07,Regulatory Affairs Specialists,http://www.bls.gov/soc/2010/soc131041.htm
+4550,13-1051.00,Cost Estimators,http://www.bls.gov/soc/2010/soc131051.htm
+4620,13-1071.00,Human Resources Specialists,http://www.bls.gov/soc/2010/soc131071.htm
+4690,13-1074.00,Farm Labor Contractors,http://www.bls.gov/soc/2010/soc131074.htm
+4760,13-1075.00,Labor Relations Specialists,http://www.bls.gov/soc/2010/soc131075.htm
+4830,13-1081.00,Logisticians,http://www.bls.gov/soc/2010/soc131081.htm
+4900,13-1081.01,Logistics Engineers,http://www.bls.gov/soc/2010/soc131081.htm
+4970,13-1081.02,Logistics Analysts,http://www.bls.gov/soc/2010/soc131081.htm
+5040,13-1111.00,Management Analysts,http://www.bls.gov/soc/2010/soc131111.htm
+5110,13-1121.00,"Meeting, Convention, and Event Planners",http://www.bls.gov/soc/2010/soc131121.htm
+5180,13-1131.00,Fundraisers,http://www.bls.gov/soc/2010/soc131131.htm
+5250,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",http://www.bls.gov/soc/2010/soc131141.htm
+5320,13-1151.00,Training and Development Specialists,http://www.bls.gov/soc/2010/soc131151.htm
+5390,13-1161.00,Market Research Analysts and Marketing Specialists,http://www.bls.gov/soc/2010/soc131161.htm
+5460,13-1199.01,Energy Auditors,http://www.bls.gov/soc/2010/soc131199.htm
+5530,13-1199.02,Security Management Specialists,http://www.bls.gov/soc/2010/soc131199.htm
+5600,13-1199.03,Customs Brokers,http://www.bls.gov/soc/2010/soc131199.htm
+5670,13-1199.04,Business Continuity Planners,http://www.bls.gov/soc/2010/soc131199.htm
+5740,13-1199.05,Sustainability Specialists,http://www.bls.gov/soc/2010/soc131199.htm
+5810,13-1199.06,Online Merchants,http://www.bls.gov/soc/2010/soc131199.htm
+5880,13-2011.01,Accountants,http://www.bls.gov/soc/2010/soc132011.htm
+5950,13-2011.02,Auditors,http://www.bls.gov/soc/2010/soc132011.htm
+6020,13-2021.01,Assessors,http://www.bls.gov/soc/2010/soc132021.htm
+6090,13-2021.02,"Appraisers, Real Estate",http://www.bls.gov/soc/2010/soc132021.htm
+6160,13-2031.00,Budget Analysts,http://www.bls.gov/soc/2010/soc132031.htm
+6230,13-2041.00,Credit Analysts,http://www.bls.gov/soc/2010/soc132041.htm
+6300,13-2051.00,Financial Analysts,http://www.bls.gov/soc/2010/soc132051.htm
+6370,13-2052.00,Personal Financial Advisors,http://www.bls.gov/soc/2010/soc132052.htm
+6440,13-2053.00,Insurance Underwriters,http://www.bls.gov/soc/2010/soc132053.htm
+6510,13-2061.00,Financial Examiners,http://www.bls.gov/soc/2010/soc132061.htm
+6580,13-2071.00,Credit Counselors,http://www.bls.gov/soc/2010/soc132071.htm
+6650,13-2071.01,Loan Counselors,http://www.bls.gov/soc/2010/soc132071.htm
+6720,13-2072.00,Loan Officers,http://www.bls.gov/soc/2010/soc132072.htm
+6790,13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",http://www.bls.gov/soc/2010/soc132081.htm
+6860,13-2082.00,Tax Preparers,http://www.bls.gov/soc/2010/soc132082.htm
+6930,13-2099.02,Risk Management Specialists,http://www.bls.gov/soc/2010/soc132099.htm
+7000,13-2099.04,"Fraud Examiners, Investigators and Analysts",http://www.bls.gov/soc/2010/soc132099.htm
+7070,15-1111.00,Computer and Information Research Scientists,http://www.bls.gov/soc/2010/soc151111.htm
+7140,15-1121.00,Computer Systems Analysts,http://www.bls.gov/soc/2010/soc151121.htm
+7210,15-1121.01,Informatics Nurse Specialists,http://www.bls.gov/soc/2010/soc151121.htm
+7280,15-1122.00,Information Security Analysts,http://www.bls.gov/soc/2010/soc151122.htm
+7350,15-1131.00,Computer Programmers,http://www.bls.gov/soc/2010/soc151131.htm
+7420,15-1132.00,"Software Developers, Applications",http://www.bls.gov/soc/2010/soc151132.htm
+7490,15-1133.00,"Software Developers, Systems Software",http://www.bls.gov/soc/2010/soc151133.htm
+7560,15-1134.00,Web Developers,http://www.bls.gov/soc/2010/soc151134.htm
+7630,15-1141.00,Database Administrators,http://www.bls.gov/soc/2010/soc151141.htm
+7700,15-1142.00,Network and Computer Systems Administrators,http://www.bls.gov/soc/2010/soc151142.htm
+7770,15-1143.00,Computer Network Architects,http://www.bls.gov/soc/2010/soc151143.htm
+7840,15-1143.01,Telecommunications Engineering Specialists,http://www.bls.gov/soc/2010/soc151143.htm
+7910,15-1151.00,Computer User Support Specialists,http://www.bls.gov/soc/2010/soc151151.htm
+7980,15-1152.00,Computer Network Support Specialists,http://www.bls.gov/soc/2010/soc151152.htm
+8050,15-1199.01,Software Quality Assurance Engineers and Testers,http://www.bls.gov/soc/2010/soc151199.htm
+8120,15-1199.02,Computer Systems Engineers/Architects,http://www.bls.gov/soc/2010/soc151199.htm
+8190,15-1199.03,Web Administrators,http://www.bls.gov/soc/2010/soc151199.htm
+8260,15-1199.04,Geospatial Information Scientists and Technologists,http://www.bls.gov/soc/2010/soc151199.htm
+8330,15-1199.05,Geographic Information Systems Technicians,http://www.bls.gov/soc/2010/soc151199.htm
+8400,15-1199.06,Database Architects,http://www.bls.gov/soc/2010/soc151199.htm
+8470,15-1199.08,Business Intelligence Analysts,http://www.bls.gov/soc/2010/soc151199.htm
+8540,15-1199.09,Information Technology Project Managers,http://www.bls.gov/soc/2010/soc151199.htm
+8610,15-1199.10,Search Marketing Strategists,http://www.bls.gov/soc/2010/soc151199.htm
+8680,15-1199.11,Video Game Designers,http://www.bls.gov/soc/2010/soc151199.htm
+8750,15-1199.12,Document Management Specialists,http://www.bls.gov/soc/2010/soc151199.htm
+8820,15-2011.00,Actuaries,http://www.bls.gov/soc/2010/soc152011.htm
+8890,15-2021.00,Mathematicians,http://www.bls.gov/soc/2010/soc152021.htm
+8960,15-2031.00,Operations Research Analysts,http://www.bls.gov/soc/2010/soc152031.htm
+9030,15-2041.00,Statisticians,http://www.bls.gov/soc/2010/soc152041.htm
+9100,15-2041.01,Biostatisticians,http://www.bls.gov/soc/2010/soc152041.htm
+9170,15-2041.02,Clinical Data Managers,http://www.bls.gov/soc/2010/soc152041.htm
+9240,15-2091.00,Mathematical Technicians,http://www.bls.gov/soc/2010/soc152091.htm
+9310,17-1011.00,"Architects, Except Landscape and Naval",http://www.bls.gov/soc/2010/soc171011.htm
+9380,17-1012.00,Landscape Architects,http://www.bls.gov/soc/2010/soc171012.htm
+9450,17-1021.00,Cartographers and Photogrammetrists,http://www.bls.gov/soc/2010/soc171021.htm
+9520,17-1022.00,Surveyors,http://www.bls.gov/soc/2010/soc171022.htm
+9590,17-1022.01,Geodetic Surveyors,http://www.bls.gov/soc/2010/soc171022.htm
+9660,17-2011.00,Aerospace Engineers,http://www.bls.gov/soc/2010/soc172011.htm
+9730,17-2021.00,Agricultural Engineers,http://www.bls.gov/soc/2010/soc172021.htm
+9800,17-2031.00,Biomedical Engineers,http://www.bls.gov/soc/2010/soc172031.htm
+9870,17-2041.00,Chemical Engineers,http://www.bls.gov/soc/2010/soc172041.htm
+9940,17-2051.00,Civil Engineers,http://www.bls.gov/soc/2010/soc172051.htm
+10010,17-2051.01,Transportation Engineers,http://www.bls.gov/soc/2010/soc172051.htm
+10080,17-2061.00,Computer Hardware Engineers,http://www.bls.gov/soc/2010/soc172061.htm
+10150,17-2071.00,Electrical Engineers,http://www.bls.gov/soc/2010/soc172071.htm
+10220,17-2072.00,"Electronics Engineers, Except Computer",http://www.bls.gov/soc/2010/soc172072.htm
+10290,17-2072.01,Radio Frequency Identification Device Specialists,http://www.bls.gov/soc/2010/soc172072.htm
+10360,17-2081.00,Environmental Engineers,http://www.bls.gov/soc/2010/soc172081.htm
+10430,17-2081.01,Water/Wastewater Engineers,http://www.bls.gov/soc/2010/soc172081.htm
+10500,17-2111.01,Industrial Safety and Health Engineers,http://www.bls.gov/soc/2010/soc172111.htm
+10570,17-2111.02,Fire-Prevention and Protection Engineers,http://www.bls.gov/soc/2010/soc172111.htm
+10640,17-2111.03,Product Safety Engineers,http://www.bls.gov/soc/2010/soc172111.htm
+10710,17-2112.00,Industrial Engineers,http://www.bls.gov/soc/2010/soc172112.htm
+10780,17-2112.01,Human Factors Engineers and Ergonomists,http://www.bls.gov/soc/2010/soc172112.htm
+10850,17-2121.01,Marine Engineers,http://www.bls.gov/soc/2010/soc172121.htm
+10920,17-2121.02,Marine Architects,http://www.bls.gov/soc/2010/soc172121.htm
+10990,17-2131.00,Materials Engineers,http://www.bls.gov/soc/2010/soc172131.htm
+11060,17-2141.00,Mechanical Engineers,http://www.bls.gov/soc/2010/soc172141.htm
+11130,17-2141.01,Fuel Cell Engineers,http://www.bls.gov/soc/2010/soc172141.htm
+11200,17-2141.02,Automotive Engineers,http://www.bls.gov/soc/2010/soc172141.htm
+11270,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",http://www.bls.gov/soc/2010/soc172151.htm
+11340,17-2161.00,Nuclear Engineers,http://www.bls.gov/soc/2010/soc172161.htm
+11410,17-2171.00,Petroleum Engineers,http://www.bls.gov/soc/2010/soc172171.htm
+11480,17-2199.01,Biochemical Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11550,17-2199.02,Validation Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11620,17-2199.03,Energy Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11690,17-2199.04,Manufacturing Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11760,17-2199.05,Mechatronics Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11830,17-2199.07,Photonics Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11900,17-2199.08,Robotics Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+11970,17-2199.09,Nanosystems Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+12040,17-2199.10,Wind Energy Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+12110,17-2199.11,Solar Energy Systems Engineers,http://www.bls.gov/soc/2010/soc172199.htm
+12180,17-3011.01,Architectural Drafters,http://www.bls.gov/soc/2010/soc173011.htm
+12250,17-3011.02,Civil Drafters,http://www.bls.gov/soc/2010/soc173011.htm
+12320,17-3012.01,Electronic Drafters,http://www.bls.gov/soc/2010/soc173012.htm
+12390,17-3012.02,Electrical Drafters,http://www.bls.gov/soc/2010/soc173012.htm
+12460,17-3013.00,Mechanical Drafters,http://www.bls.gov/soc/2010/soc173013.htm
+12530,17-3021.00,Aerospace Engineering and Operations Technicians,http://www.bls.gov/soc/2010/soc173021.htm
+12600,17-3022.00,Civil Engineering Technicians,http://www.bls.gov/soc/2010/soc173022.htm
+12670,17-3023.01,Electronics Engineering Technicians,http://www.bls.gov/soc/2010/soc173023.htm
+12740,17-3023.03,Electrical Engineering Technicians,http://www.bls.gov/soc/2010/soc173023.htm
+12810,17-3024.00,Electro-Mechanical Technicians,http://www.bls.gov/soc/2010/soc173024.htm
+12880,17-3024.01,Robotics Technicians,http://www.bls.gov/soc/2010/soc173024.htm
+12950,17-3025.00,Environmental Engineering Technicians,http://www.bls.gov/soc/2010/soc173025.htm
+13020,17-3026.00,Industrial Engineering Technicians,http://www.bls.gov/soc/2010/soc173026.htm
+13090,17-3027.00,Mechanical Engineering Technicians,http://www.bls.gov/soc/2010/soc173027.htm
+13160,17-3029.01,Non-Destructive Testing Specialists,http://www.bls.gov/soc/2010/soc173029.htm
+13230,17-3029.02,Electrical Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13300,17-3029.03,Electromechanical Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13370,17-3029.04,Electronics Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13440,17-3029.05,Industrial Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13510,17-3029.06,Manufacturing Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13580,17-3029.07,Mechanical Engineering Technologists,http://www.bls.gov/soc/2010/soc173029.htm
+13650,17-3029.08,Photonics Technicians,http://www.bls.gov/soc/2010/soc173029.htm
+13720,17-3029.09,Manufacturing Production Technicians,http://www.bls.gov/soc/2010/soc173029.htm
+13790,17-3031.01,Surveying Technicians,http://www.bls.gov/soc/2010/soc173031.htm
+13860,17-3031.02,Mapping Technicians,http://www.bls.gov/soc/2010/soc173031.htm
+13930,19-1011.00,Animal Scientists,http://www.bls.gov/soc/2010/soc191011.htm
+14000,19-1012.00,Food Scientists and Technologists,http://www.bls.gov/soc/2010/soc191012.htm
+14070,19-1013.00,Soil and Plant Scientists,http://www.bls.gov/soc/2010/soc191013.htm
+14140,19-1020.01,Biologists,http://www.bls.gov/soc/2010/soc191020.htm
+14210,19-1021.00,Biochemists and Biophysicists,http://www.bls.gov/soc/2010/soc191021.htm
+14280,19-1022.00,Microbiologists,http://www.bls.gov/soc/2010/soc191022.htm
+14350,19-1023.00,Zoologists and Wildlife Biologists,http://www.bls.gov/soc/2010/soc191023.htm
+14420,19-1029.01,Bioinformatics Scientists,http://www.bls.gov/soc/2010/soc191029.htm
+14490,19-1029.02,Molecular and Cellular Biologists,http://www.bls.gov/soc/2010/soc191029.htm
+14560,19-1029.03,Geneticists,http://www.bls.gov/soc/2010/soc191029.htm
+14630,19-1031.01,Soil and Water Conservationists,http://www.bls.gov/soc/2010/soc191031.htm
+14700,19-1031.02,Range Managers,http://www.bls.gov/soc/2010/soc191031.htm
+14770,19-1031.03,Park Naturalists,http://www.bls.gov/soc/2010/soc191031.htm
+14840,19-1032.00,Foresters,http://www.bls.gov/soc/2010/soc191032.htm
+14910,19-1041.00,Epidemiologists,http://www.bls.gov/soc/2010/soc191041.htm
+14980,19-1042.00,"Medical Scientists, Except Epidemiologists",http://www.bls.gov/soc/2010/soc191042.htm
+15050,19-2011.00,Astronomers,http://www.bls.gov/soc/2010/soc192011.htm
+15120,19-2012.00,Physicists,http://www.bls.gov/soc/2010/soc192012.htm
+15190,19-2021.00,Atmospheric and Space Scientists,http://www.bls.gov/soc/2010/soc192021.htm
+15260,19-2031.00,Chemists,http://www.bls.gov/soc/2010/soc192031.htm
+15330,19-2032.00,Materials Scientists,http://www.bls.gov/soc/2010/soc192032.htm
+15400,19-2041.00,"Environmental Scientists and Specialists, Including Health",http://www.bls.gov/soc/2010/soc192041.htm
+15470,19-2041.01,Climate Change Analysts,http://www.bls.gov/soc/2010/soc192041.htm
+15540,19-2041.02,Environmental Restoration Planners,http://www.bls.gov/soc/2010/soc192041.htm
+15610,19-2041.03,Industrial Ecologists,http://www.bls.gov/soc/2010/soc192041.htm
+15680,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",http://www.bls.gov/soc/2010/soc192042.htm
+15750,19-2043.00,Hydrologists,http://www.bls.gov/soc/2010/soc192043.htm
+15820,19-2099.01,Remote Sensing Scientists and Technologists,http://www.bls.gov/soc/2010/soc192099.htm
+15890,19-3011.00,Economists,http://www.bls.gov/soc/2010/soc193011.htm
+15960,19-3011.01,Environmental Economists,http://www.bls.gov/soc/2010/soc193011.htm
+16030,19-3022.00,Survey Researchers,http://www.bls.gov/soc/2010/soc193022.htm
+16100,19-3031.01,School Psychologists,http://www.bls.gov/soc/2010/soc193031.htm
+16170,19-3031.02,Clinical Psychologists,http://www.bls.gov/soc/2010/soc193031.htm
+16240,19-3031.03,Counseling Psychologists,http://www.bls.gov/soc/2010/soc193031.htm
+16310,19-3032.00,Industrial-Organizational Psychologists,http://www.bls.gov/soc/2010/soc193032.htm
+16380,19-3039.01,Neuropsychologists and Clinical Neuropsychologists,http://www.bls.gov/soc/2010/soc193039.htm
+16450,19-3041.00,Sociologists,http://www.bls.gov/soc/2010/soc193041.htm
+16520,19-3051.00,Urban and Regional Planners,http://www.bls.gov/soc/2010/soc193051.htm
+16590,19-3091.01,Anthropologists,http://www.bls.gov/soc/2010/soc193091.htm
+16660,19-3091.02,Archeologists,http://www.bls.gov/soc/2010/soc193091.htm
+16730,19-3092.00,Geographers,http://www.bls.gov/soc/2010/soc193092.htm
+16800,19-3093.00,Historians,http://www.bls.gov/soc/2010/soc193093.htm
+16870,19-3094.00,Political Scientists,http://www.bls.gov/soc/2010/soc193094.htm
+16940,19-3099.01,Transportation Planners,http://www.bls.gov/soc/2010/soc193099.htm
+17010,19-4011.01,Agricultural Technicians,http://www.bls.gov/soc/2010/soc194011.htm
+17080,19-4011.02,Food Science Technicians,http://www.bls.gov/soc/2010/soc194011.htm
+17150,19-4021.00,Biological Technicians,http://www.bls.gov/soc/2010/soc194021.htm
+17220,19-4031.00,Chemical Technicians,http://www.bls.gov/soc/2010/soc194031.htm
+17290,19-4041.01,Geophysical Data Technicians,http://www.bls.gov/soc/2010/soc194041.htm
+17360,19-4041.02,Geological Sample Test Technicians,http://www.bls.gov/soc/2010/soc194041.htm
+17430,19-4051.01,Nuclear Equipment Operation Technicians,http://www.bls.gov/soc/2010/soc194051.htm
+17500,19-4051.02,Nuclear Monitoring Technicians,http://www.bls.gov/soc/2010/soc194051.htm
+17570,19-4061.00,Social Science Research Assistants,http://www.bls.gov/soc/2010/soc194061.htm
+17640,19-4061.01,City and Regional Planning Aides,http://www.bls.gov/soc/2010/soc194061.htm
+17710,19-4091.00,"Environmental Science and Protection Technicians, Including Health",http://www.bls.gov/soc/2010/soc194091.htm
+17780,19-4092.00,Forensic Science Technicians,http://www.bls.gov/soc/2010/soc194092.htm
+17850,19-4093.00,Forest and Conservation Technicians,http://www.bls.gov/soc/2010/soc194093.htm
+17920,19-4099.01,Quality Control Analysts,http://www.bls.gov/soc/2010/soc194099.htm
+17990,19-4099.02,Precision Agriculture Technicians,http://www.bls.gov/soc/2010/soc194099.htm
+18060,19-4099.03,Remote Sensing Technicians,http://www.bls.gov/soc/2010/soc194099.htm
+18130,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,http://www.bls.gov/soc/2010/soc211011.htm
+18200,21-1012.00,"Educational, Guidance, School, and Vocational Counselors",http://www.bls.gov/soc/2010/soc211012.htm
+18270,21-1013.00,Marriage and Family Therapists,http://www.bls.gov/soc/2010/soc211013.htm
+18340,21-1014.00,Mental Health Counselors,http://www.bls.gov/soc/2010/soc211014.htm
+18410,21-1015.00,Rehabilitation Counselors,http://www.bls.gov/soc/2010/soc211015.htm
+18480,21-1021.00,"Child, Family, and School Social Workers",http://www.bls.gov/soc/2010/soc211021.htm
+18550,21-1022.00,Healthcare Social Workers,http://www.bls.gov/soc/2010/soc211022.htm
+18620,21-1023.00,Mental Health and Substance Abuse Social Workers,http://www.bls.gov/soc/2010/soc211023.htm
+18690,21-1091.00,Health Educators,http://www.bls.gov/soc/2010/soc211091.htm
+18760,21-1092.00,Probation Officers and Correctional Treatment Specialists,http://www.bls.gov/soc/2010/soc211092.htm
+18830,21-1093.00,Social and Human Service Assistants,http://www.bls.gov/soc/2010/soc211093.htm
+18900,21-1094.00,Community Health Workers,http://www.bls.gov/soc/2010/soc211094.htm
+18970,21-2011.00,Clergy,http://www.bls.gov/soc/2010/soc212011.htm
+19040,21-2021.00,"Directors, Religious Activities and Education",http://www.bls.gov/soc/2010/soc212021.htm
+19110,23-1011.00,Lawyers,http://www.bls.gov/soc/2010/soc231011.htm
+19180,23-1012.00,Judicial Law Clerks,http://www.bls.gov/soc/2010/soc231012.htm
+19250,23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",http://www.bls.gov/soc/2010/soc231021.htm
+19320,23-1022.00,"Arbitrators, Mediators, and Conciliators",http://www.bls.gov/soc/2010/soc231022.htm
+19390,23-1023.00,"Judges, Magistrate Judges, and Magistrates",http://www.bls.gov/soc/2010/soc231023.htm
+19460,23-2011.00,Paralegals and Legal Assistants,http://www.bls.gov/soc/2010/soc232011.htm
+19530,23-2091.00,Court Reporters,http://www.bls.gov/soc/2010/soc232091.htm
+19600,23-2093.00,"Title Examiners, Abstractors, and Searchers",http://www.bls.gov/soc/2010/soc232093.htm
+19670,25-1011.00,"Business Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251011.htm
+19740,25-1021.00,"Computer Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251021.htm
+19810,25-1022.00,"Mathematical Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251022.htm
+19880,25-1031.00,"Architecture Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251031.htm
+19950,25-1032.00,"Engineering Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251032.htm
+20020,25-1041.00,"Agricultural Sciences Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251041.htm
+20090,25-1042.00,"Biological Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251042.htm
+20160,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251043.htm
+20230,25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251051.htm
+20300,25-1052.00,"Chemistry Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251052.htm
+20370,25-1053.00,"Environmental Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251053.htm
+20440,25-1054.00,"Physics Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251054.htm
+20510,25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251061.htm
+20580,25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251062.htm
+20650,25-1063.00,"Economics Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251063.htm
+20720,25-1064.00,"Geography Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251064.htm
+20790,25-1065.00,"Political Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251065.htm
+20860,25-1066.00,"Psychology Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251066.htm
+20930,25-1067.00,"Sociology Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251067.htm
+21000,25-1071.00,"Health Specialties Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251071.htm
+21070,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251072.htm
+21140,25-1081.00,"Education Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251081.htm
+21210,25-1082.00,"Library Science Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251082.htm
+21280,25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251111.htm
+21350,25-1112.00,"Law Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251112.htm
+21420,25-1113.00,"Social Work Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251113.htm
+21490,25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251121.htm
+21560,25-1122.00,"Communications Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251122.htm
+21630,25-1123.00,"English Language and Literature Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251123.htm
+21700,25-1124.00,"Foreign Language and Literature Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251124.htm
+21770,25-1125.00,"History Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251125.htm
+21840,25-1126.00,"Philosophy and Religion Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251126.htm
+21910,25-1191.00,Graduate Teaching Assistants,http://www.bls.gov/soc/2010/soc251191.htm
+21980,25-1192.00,"Home Economics Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251192.htm
+22050,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251193.htm
+22120,25-1194.00,"Vocational Education Teachers, Postsecondary",http://www.bls.gov/soc/2010/soc251194.htm
+22190,25-2011.00,"Preschool Teachers, Except Special Education",http://www.bls.gov/soc/2010/soc252011.htm
+22260,25-2012.00,"Kindergarten Teachers, Except Special Education",http://www.bls.gov/soc/2010/soc252012.htm
+22330,25-2021.00,"Elementary School Teachers, Except Special Education",http://www.bls.gov/soc/2010/soc252021.htm
+22400,25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",http://www.bls.gov/soc/2010/soc252022.htm
+22470,25-2023.00,"Career/Technical Education Teachers, Middle School",http://www.bls.gov/soc/2010/soc252023.htm
+22540,25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",http://www.bls.gov/soc/2010/soc252031.htm
+22610,25-2032.00,"Career/Technical Education Teachers, Secondary School",http://www.bls.gov/soc/2010/soc252032.htm
+22680,25-2052.00,"Special Education Teachers, Kindergarten and Elementary School",http://www.bls.gov/soc/2010/soc252052.htm
+22750,25-2053.00,"Special Education Teachers, Middle School",http://www.bls.gov/soc/2010/soc252053.htm
+22820,25-2054.00,"Special Education Teachers, Secondary School",http://www.bls.gov/soc/2010/soc252054.htm
+22890,25-2059.01,Adapted Physical Education Specialists,http://www.bls.gov/soc/2010/soc252059.htm
+22960,25-3011.00,Adult Basic and Secondary Education and Literacy Teachers and Instructors,http://www.bls.gov/soc/2010/soc253011.htm
+23030,25-3021.00,Self-Enrichment Education Teachers,http://www.bls.gov/soc/2010/soc253021.htm
+23100,25-3099.02,Tutors,http://www.bls.gov/soc/2010/soc253099.htm
+23170,25-4011.00,Archivists,http://www.bls.gov/soc/2010/soc254011.htm
+23240,25-4012.00,Curators,http://www.bls.gov/soc/2010/soc254012.htm
+23310,25-4013.00,Museum Technicians and Conservators,http://www.bls.gov/soc/2010/soc254013.htm
+23380,25-4021.00,Librarians,http://www.bls.gov/soc/2010/soc254021.htm
+23450,25-4031.00,Library Technicians,http://www.bls.gov/soc/2010/soc254031.htm
+23520,25-9011.00,Audio-Visual and Multimedia Collections Specialists,http://www.bls.gov/soc/2010/soc259011.htm
+23590,25-9021.00,Farm and Home Management Advisors,http://www.bls.gov/soc/2010/soc259021.htm
+23660,25-9031.00,Instructional Coordinators,http://www.bls.gov/soc/2010/soc259031.htm
+23730,25-9031.01,Instructional Designers and Technologists,http://www.bls.gov/soc/2010/soc259031.htm
+23800,25-9041.00,Teacher Assistants,http://www.bls.gov/soc/2010/soc259041.htm
+23870,27-1011.00,Art Directors,http://www.bls.gov/soc/2010/soc271011.htm
+23940,27-1012.00,Craft Artists,http://www.bls.gov/soc/2010/soc271012.htm
+24010,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",http://www.bls.gov/soc/2010/soc271013.htm
+24080,27-1014.00,Multimedia Artists and Animators,http://www.bls.gov/soc/2010/soc271014.htm
+24150,27-1021.00,Commercial and Industrial Designers,http://www.bls.gov/soc/2010/soc271021.htm
+24220,27-1022.00,Fashion Designers,http://www.bls.gov/soc/2010/soc271022.htm
+24290,27-1023.00,Floral Designers,http://www.bls.gov/soc/2010/soc271023.htm
+24360,27-1024.00,Graphic Designers,http://www.bls.gov/soc/2010/soc271024.htm
+24430,27-1025.00,Interior Designers,http://www.bls.gov/soc/2010/soc271025.htm
+24500,27-1026.00,Merchandise Displayers and Window Trimmers,http://www.bls.gov/soc/2010/soc271026.htm
+24570,27-1027.00,Set and Exhibit Designers,http://www.bls.gov/soc/2010/soc271027.htm
+24640,27-2011.00,Actors,http://www.bls.gov/soc/2010/soc272011.htm
+24710,27-2012.01,Producers,http://www.bls.gov/soc/2010/soc272012.htm
+24780,27-2012.02,"Directors- Stage, Motion Pictures, Television, and Radio",http://www.bls.gov/soc/2010/soc272012.htm
+24850,27-2012.03,Program Directors,http://www.bls.gov/soc/2010/soc272012.htm
+24920,27-2012.04,Talent Directors,http://www.bls.gov/soc/2010/soc272012.htm
+24990,27-2012.05,Technical Directors/Managers,http://www.bls.gov/soc/2010/soc272012.htm
+25060,27-2021.00,Athletes and Sports Competitors,http://www.bls.gov/soc/2010/soc272021.htm
+25130,27-2022.00,Coaches and Scouts,http://www.bls.gov/soc/2010/soc272022.htm
+25200,27-2023.00,"Umpires, Referees, and Other Sports Officials",http://www.bls.gov/soc/2010/soc272023.htm
+25270,27-2031.00,Dancers,http://www.bls.gov/soc/2010/soc272031.htm
+25340,27-2032.00,Choreographers,http://www.bls.gov/soc/2010/soc272032.htm
+25410,27-2041.01,Music Directors,http://www.bls.gov/soc/2010/soc272041.htm
+25480,27-2041.04,Music Composers and Arrangers,http://www.bls.gov/soc/2010/soc272041.htm
+25550,27-2042.01,Singers,http://www.bls.gov/soc/2010/soc272042.htm
+25620,27-2042.02,"Musicians, Instrumental",http://www.bls.gov/soc/2010/soc272042.htm
+25690,27-3011.00,Radio and Television Announcers,http://www.bls.gov/soc/2010/soc273011.htm
+25760,27-3012.00,Public Address System and Other Announcers,http://www.bls.gov/soc/2010/soc273012.htm
+25830,27-3021.00,Broadcast News Analysts,http://www.bls.gov/soc/2010/soc273021.htm
+25900,27-3022.00,Reporters and Correspondents,http://www.bls.gov/soc/2010/soc273022.htm
+25970,27-3031.00,Public Relations Specialists,http://www.bls.gov/soc/2010/soc273031.htm
+26040,27-3041.00,Editors,http://www.bls.gov/soc/2010/soc273041.htm
+26110,27-3042.00,Technical Writers,http://www.bls.gov/soc/2010/soc273042.htm
+26180,27-3043.04,Copy Writers,http://www.bls.gov/soc/2010/soc273043.htm
+26250,27-3043.05,"Poets, Lyricists and Creative Writers",http://www.bls.gov/soc/2010/soc273043.htm
+26320,27-3091.00,Interpreters and Translators,http://www.bls.gov/soc/2010/soc273091.htm
+26390,27-4011.00,Audio and Video Equipment Technicians,http://www.bls.gov/soc/2010/soc274011.htm
+26460,27-4012.00,Broadcast Technicians,http://www.bls.gov/soc/2010/soc274012.htm
+26530,27-4013.00,Radio Operators,http://www.bls.gov/soc/2010/soc274013.htm
+26600,27-4014.00,Sound Engineering Technicians,http://www.bls.gov/soc/2010/soc274014.htm
+26670,27-4021.00,Photographers,http://www.bls.gov/soc/2010/soc274021.htm
+26740,27-4031.00,"Camera Operators, Television, Video, and Motion Picture",http://www.bls.gov/soc/2010/soc274031.htm
+26810,27-4032.00,Film and Video Editors,http://www.bls.gov/soc/2010/soc274032.htm
+26880,29-1011.00,Chiropractors,http://www.bls.gov/soc/2010/soc291011.htm
+26950,29-1021.00,"Dentists, General",http://www.bls.gov/soc/2010/soc291021.htm
+27020,29-1022.00,Oral and Maxillofacial Surgeons,http://www.bls.gov/soc/2010/soc291022.htm
+27090,29-1023.00,Orthodontists,http://www.bls.gov/soc/2010/soc291023.htm
+27160,29-1024.00,Prosthodontists,http://www.bls.gov/soc/2010/soc291024.htm
+27230,29-1031.00,Dietitians and Nutritionists,http://www.bls.gov/soc/2010/soc291031.htm
+27300,29-1041.00,Optometrists,http://www.bls.gov/soc/2010/soc291041.htm
+27370,29-1051.00,Pharmacists,http://www.bls.gov/soc/2010/soc291051.htm
+27440,29-1061.00,Anesthesiologists,http://www.bls.gov/soc/2010/soc291061.htm
+27510,29-1062.00,Family and General Practitioners,http://www.bls.gov/soc/2010/soc291062.htm
+27580,29-1063.00,"Internists, General",http://www.bls.gov/soc/2010/soc291063.htm
+27650,29-1064.00,Obstetricians and Gynecologists,http://www.bls.gov/soc/2010/soc291064.htm
+27720,29-1065.00,"Pediatricians, General",http://www.bls.gov/soc/2010/soc291065.htm
+27790,29-1066.00,Psychiatrists,http://www.bls.gov/soc/2010/soc291066.htm
+27860,29-1067.00,Surgeons,http://www.bls.gov/soc/2010/soc291067.htm
+27930,29-1069.01,Allergists and Immunologists,http://www.bls.gov/soc/2010/soc291069.htm
+28000,29-1069.02,Dermatologists,http://www.bls.gov/soc/2010/soc291069.htm
+28070,29-1069.03,Hospitalists,http://www.bls.gov/soc/2010/soc291069.htm
+28140,29-1069.04,Neurologists,http://www.bls.gov/soc/2010/soc291069.htm
+28210,29-1069.05,Nuclear Medicine Physicians,http://www.bls.gov/soc/2010/soc291069.htm
+28280,29-1069.06,Ophthalmologists,http://www.bls.gov/soc/2010/soc291069.htm
+28350,29-1069.07,Pathologists,http://www.bls.gov/soc/2010/soc291069.htm
+28420,29-1069.08,Physical Medicine and Rehabilitation Physicians,http://www.bls.gov/soc/2010/soc291069.htm
+28490,29-1069.09,Preventive Medicine Physicians,http://www.bls.gov/soc/2010/soc291069.htm
+28560,29-1069.10,Radiologists,http://www.bls.gov/soc/2010/soc291069.htm
+28630,29-1069.11,Sports Medicine Physicians,http://www.bls.gov/soc/2010/soc291069.htm
+28700,29-1069.12,Urologists,http://www.bls.gov/soc/2010/soc291069.htm
+28770,29-1071.00,Physician Assistants,http://www.bls.gov/soc/2010/soc291071.htm
+28840,29-1071.01,Anesthesiologist Assistants,http://www.bls.gov/soc/2010/soc291071.htm
+28910,29-1081.00,Podiatrists,http://www.bls.gov/soc/2010/soc291081.htm
+28980,29-1122.00,Occupational Therapists,http://www.bls.gov/soc/2010/soc291122.htm
+29050,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",http://www.bls.gov/soc/2010/soc291122.htm
+29120,29-1123.00,Physical Therapists,http://www.bls.gov/soc/2010/soc291123.htm
+29190,29-1124.00,Radiation Therapists,http://www.bls.gov/soc/2010/soc291124.htm
+29260,29-1125.00,Recreational Therapists,http://www.bls.gov/soc/2010/soc291125.htm
+29330,29-1125.01,Art Therapists,http://www.bls.gov/soc/2010/soc291125.htm
+29400,29-1125.02,Music Therapists,http://www.bls.gov/soc/2010/soc291125.htm
+29470,29-1126.00,Respiratory Therapists,http://www.bls.gov/soc/2010/soc291126.htm
+29540,29-1127.00,Speech-Language Pathologists,http://www.bls.gov/soc/2010/soc291127.htm
+29610,29-1128.00,Exercise Physiologists,http://www.bls.gov/soc/2010/soc291128.htm
+29680,29-1131.00,Veterinarians,http://www.bls.gov/soc/2010/soc291131.htm
+29750,29-1141.00,Registered Nurses,http://www.bls.gov/soc/2010/soc291141.htm
+29820,29-1141.01,Acute Care Nurses,http://www.bls.gov/soc/2010/soc291141.htm
+29890,29-1141.02,Advanced Practice Psychiatric Nurses,http://www.bls.gov/soc/2010/soc291141.htm
+29960,29-1141.03,Critical Care Nurses,http://www.bls.gov/soc/2010/soc291141.htm
+30030,29-1141.04,Clinical Nurse Specialists,http://www.bls.gov/soc/2010/soc291141.htm
+30100,29-1151.00,Nurse Anesthetists,http://www.bls.gov/soc/2010/soc291151.htm
+30170,29-1161.00,Nurse Midwives,http://www.bls.gov/soc/2010/soc291161.htm
+30240,29-1171.00,Nurse Practitioners,http://www.bls.gov/soc/2010/soc291171.htm
+30310,29-1181.00,Audiologists,http://www.bls.gov/soc/2010/soc291181.htm
+30380,29-1199.01,Acupuncturists,http://www.bls.gov/soc/2010/soc291199.htm
+30450,29-1199.04,Naturopathic Physicians,http://www.bls.gov/soc/2010/soc291199.htm
+30520,29-1199.05,Orthoptists,http://www.bls.gov/soc/2010/soc291199.htm
+30590,29-2011.00,Medical and Clinical Laboratory Technologists,http://www.bls.gov/soc/2010/soc292011.htm
+30660,29-2011.01,Cytogenetic Technologists,http://www.bls.gov/soc/2010/soc292011.htm
+30730,29-2011.02,Cytotechnologists,http://www.bls.gov/soc/2010/soc292011.htm
+30800,29-2011.03,Histotechnologists and Histologic Technicians,http://www.bls.gov/soc/2010/soc292011.htm
+30870,29-2012.00,Medical and Clinical Laboratory Technicians,http://www.bls.gov/soc/2010/soc292012.htm
+30940,29-2021.00,Dental Hygienists,http://www.bls.gov/soc/2010/soc292021.htm
+31010,29-2031.00,Cardiovascular Technologists and Technicians,http://www.bls.gov/soc/2010/soc292031.htm
+31080,29-2032.00,Diagnostic Medical Sonographers,http://www.bls.gov/soc/2010/soc292032.htm
+31150,29-2033.00,Nuclear Medicine Technologists,http://www.bls.gov/soc/2010/soc292033.htm
+31220,29-2034.00,Radiologic Technologists,http://www.bls.gov/soc/2010/soc292034.htm
+31290,29-2035.00,Magnetic Resonance Imaging Technologists,http://www.bls.gov/soc/2010/soc292035.htm
+31360,29-2041.00,Emergency Medical Technicians and Paramedics,http://www.bls.gov/soc/2010/soc292041.htm
+31430,29-2051.00,Dietetic Technicians,http://www.bls.gov/soc/2010/soc292051.htm
+31500,29-2052.00,Pharmacy Technicians,http://www.bls.gov/soc/2010/soc292052.htm
+31570,29-2053.00,Psychiatric Technicians,http://www.bls.gov/soc/2010/soc292053.htm
+31640,29-2054.00,Respiratory Therapy Technicians,http://www.bls.gov/soc/2010/soc292054.htm
+31710,29-2055.00,Surgical Technologists,http://www.bls.gov/soc/2010/soc292055.htm
+31780,29-2056.00,Veterinary Technologists and Technicians,http://www.bls.gov/soc/2010/soc292056.htm
+31850,29-2057.00,Ophthalmic Medical Technicians,http://www.bls.gov/soc/2010/soc292057.htm
+31920,29-2061.00,Licensed Practical and Licensed Vocational Nurses,http://www.bls.gov/soc/2010/soc292061.htm
+31990,29-2071.00,Medical Records and Health Information Technicians,http://www.bls.gov/soc/2010/soc292071.htm
+32060,29-2081.00,"Opticians, Dispensing",http://www.bls.gov/soc/2010/soc292081.htm
+32130,29-2091.00,Orthotists and Prosthetists,http://www.bls.gov/soc/2010/soc292091.htm
+32200,29-2092.00,Hearing Aid Specialists,http://www.bls.gov/soc/2010/soc292092.htm
+32270,29-2099.01,Neurodiagnostic Technologists,http://www.bls.gov/soc/2010/soc292099.htm
+32340,29-2099.05,Ophthalmic Medical Technologists,http://www.bls.gov/soc/2010/soc292099.htm
+32410,29-2099.06,Radiologic Technicians,http://www.bls.gov/soc/2010/soc292099.htm
+32480,29-2099.07,Surgical Assistants,http://www.bls.gov/soc/2010/soc292099.htm
+32550,29-9011.00,Occupational Health and Safety Specialists,http://www.bls.gov/soc/2010/soc299011.htm
+32620,29-9012.00,Occupational Health and Safety Technicians,http://www.bls.gov/soc/2010/soc299012.htm
+32690,29-9091.00,Athletic Trainers,http://www.bls.gov/soc/2010/soc299091.htm
+32760,29-9092.00,Genetic Counselors,http://www.bls.gov/soc/2010/soc299092.htm
+32830,29-9099.01,Midwives,http://www.bls.gov/soc/2010/soc299099.htm
+32900,31-1011.00,Home Health Aides,http://www.bls.gov/soc/2010/soc311011.htm
+32970,31-1013.00,Psychiatric Aides,http://www.bls.gov/soc/2010/soc311013.htm
+33040,31-1014.00,Nursing Assistants,http://www.bls.gov/soc/2010/soc311014.htm
+33110,31-2011.00,Occupational Therapy Assistants,http://www.bls.gov/soc/2010/soc312011.htm
+33180,31-2012.00,Occupational Therapy Aides,http://www.bls.gov/soc/2010/soc312012.htm
+33250,31-2021.00,Physical Therapist Assistants,http://www.bls.gov/soc/2010/soc312021.htm
+33320,31-2022.00,Physical Therapist Aides,http://www.bls.gov/soc/2010/soc312022.htm
+33390,31-9011.00,Massage Therapists,http://www.bls.gov/soc/2010/soc319011.htm
+33460,31-9091.00,Dental Assistants,http://www.bls.gov/soc/2010/soc319091.htm
+33530,31-9092.00,Medical Assistants,http://www.bls.gov/soc/2010/soc319092.htm
+33600,31-9093.00,Medical Equipment Preparers,http://www.bls.gov/soc/2010/soc319093.htm
+33670,31-9094.00,Medical Transcriptionists,http://www.bls.gov/soc/2010/soc319094.htm
+33740,31-9095.00,Pharmacy Aides,http://www.bls.gov/soc/2010/soc319095.htm
+33810,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,http://www.bls.gov/soc/2010/soc319096.htm
+33880,31-9097.00,Phlebotomists,http://www.bls.gov/soc/2010/soc319097.htm
+33950,31-9099.01,Speech-Language Pathology Assistants,http://www.bls.gov/soc/2010/soc319099.htm
+34020,31-9099.02,Endoscopy Technicians,http://www.bls.gov/soc/2010/soc319099.htm
+34090,33-1011.00,First-Line Supervisors of Correctional Officers,http://www.bls.gov/soc/2010/soc331011.htm
+34160,33-1012.00,First-Line Supervisors of Police and Detectives,http://www.bls.gov/soc/2010/soc331012.htm
+34230,33-1021.01,Municipal Fire Fighting and Prevention Supervisors,http://www.bls.gov/soc/2010/soc331021.htm
+34300,33-1021.02,Forest Fire Fighting and Prevention Supervisors,http://www.bls.gov/soc/2010/soc331021.htm
+34370,33-2011.01,Municipal Firefighters,http://www.bls.gov/soc/2010/soc332011.htm
+34440,33-2011.02,Forest Firefighters,http://www.bls.gov/soc/2010/soc332011.htm
+34510,33-2021.01,Fire Inspectors,http://www.bls.gov/soc/2010/soc332021.htm
+34580,33-2021.02,Fire Investigators,http://www.bls.gov/soc/2010/soc332021.htm
+34650,33-2022.00,Forest Fire Inspectors and Prevention Specialists,http://www.bls.gov/soc/2010/soc332022.htm
+34720,33-3011.00,Bailiffs,http://www.bls.gov/soc/2010/soc333011.htm
+34790,33-3012.00,Correctional Officers and Jailers,http://www.bls.gov/soc/2010/soc333012.htm
+34860,33-3021.01,Police Detectives,http://www.bls.gov/soc/2010/soc333021.htm
+34930,33-3021.02,Police Identification and Records Officers,http://www.bls.gov/soc/2010/soc333021.htm
+35000,33-3021.03,Criminal Investigators and Special Agents,http://www.bls.gov/soc/2010/soc333021.htm
+35070,33-3021.05,Immigration and Customs Inspectors,http://www.bls.gov/soc/2010/soc333021.htm
+35140,33-3021.06,Intelligence Analysts,http://www.bls.gov/soc/2010/soc333021.htm
+35210,33-3031.00,Fish and Game Wardens,http://www.bls.gov/soc/2010/soc333031.htm
+35280,33-3041.00,Parking Enforcement Workers,http://www.bls.gov/soc/2010/soc333041.htm
+35350,33-3051.01,Police Patrol Officers,http://www.bls.gov/soc/2010/soc333051.htm
+35420,33-3051.03,Sheriffs and Deputy Sheriffs,http://www.bls.gov/soc/2010/soc333051.htm
+35490,33-3052.00,Transit and Railroad Police,http://www.bls.gov/soc/2010/soc333052.htm
+35560,33-9011.00,Animal Control Workers,http://www.bls.gov/soc/2010/soc339011.htm
+35630,33-9021.00,Private Detectives and Investigators,http://www.bls.gov/soc/2010/soc339021.htm
+35700,33-9031.00,Gaming Surveillance Officers and Gaming Investigators,http://www.bls.gov/soc/2010/soc339031.htm
+35770,33-9032.00,Security Guards,http://www.bls.gov/soc/2010/soc339032.htm
+35840,33-9091.00,Crossing Guards,http://www.bls.gov/soc/2010/soc339091.htm
+35910,33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",http://www.bls.gov/soc/2010/soc339092.htm
+35980,33-9093.00,Transportation Security Screeners,http://www.bls.gov/soc/2010/soc339093.htm
+36050,33-9099.02,Retail Loss Prevention Specialists,http://www.bls.gov/soc/2010/soc339099.htm
+36120,35-1011.00,Chefs and Head Cooks,http://www.bls.gov/soc/2010/soc351011.htm
+36190,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,http://www.bls.gov/soc/2010/soc351012.htm
+36260,35-2011.00,"Cooks, Fast Food",http://www.bls.gov/soc/2010/soc352011.htm
+36330,35-2012.00,"Cooks, Institution and Cafeteria",http://www.bls.gov/soc/2010/soc352012.htm
+36400,35-2013.00,"Cooks, Private Household",http://www.bls.gov/soc/2010/soc352013.htm
+36470,35-2014.00,"Cooks, Restaurant",http://www.bls.gov/soc/2010/soc352014.htm
+36540,35-2015.00,"Cooks, Short Order",http://www.bls.gov/soc/2010/soc352015.htm
+36610,35-2021.00,Food Preparation Workers,http://www.bls.gov/soc/2010/soc352021.htm
+36680,35-3011.00,Bartenders,http://www.bls.gov/soc/2010/soc353011.htm
+36750,35-3021.00,"Combined Food Preparation and Serving Workers, Including Fast Food",http://www.bls.gov/soc/2010/soc353021.htm
+36820,35-3022.00,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",http://www.bls.gov/soc/2010/soc353022.htm
+36890,35-3022.01,Baristas,http://www.bls.gov/soc/2010/soc353022.htm
+36960,35-3031.00,Waiters and Waitresses,http://www.bls.gov/soc/2010/soc353031.htm
+37030,35-3041.00,"Food Servers, Nonrestaurant",http://www.bls.gov/soc/2010/soc353041.htm
+37100,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,http://www.bls.gov/soc/2010/soc359011.htm
+37170,35-9021.00,Dishwashers,http://www.bls.gov/soc/2010/soc359021.htm
+37240,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",http://www.bls.gov/soc/2010/soc359031.htm
+37310,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,http://www.bls.gov/soc/2010/soc371011.htm
+37380,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",http://www.bls.gov/soc/2010/soc371012.htm
+37450,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",http://www.bls.gov/soc/2010/soc372011.htm
+37520,37-2012.00,Maids and Housekeeping Cleaners,http://www.bls.gov/soc/2010/soc372012.htm
+37590,37-2021.00,Pest Control Workers,http://www.bls.gov/soc/2010/soc372021.htm
+37660,37-3011.00,Landscaping and Groundskeeping Workers,http://www.bls.gov/soc/2010/soc373011.htm
+37730,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",http://www.bls.gov/soc/2010/soc373012.htm
+37800,37-3013.00,Tree Trimmers and Pruners,http://www.bls.gov/soc/2010/soc373013.htm
+37870,39-1011.00,Gaming Supervisors,http://www.bls.gov/soc/2010/soc391011.htm
+37940,39-1012.00,Slot Supervisors,http://www.bls.gov/soc/2010/soc391012.htm
+38010,39-1021.00,First-Line Supervisors of Personal Service Workers,http://www.bls.gov/soc/2010/soc391021.htm
+38080,39-1021.01,Spa Managers,http://www.bls.gov/soc/2010/soc391021.htm
+38150,39-2011.00,Animal Trainers,http://www.bls.gov/soc/2010/soc392011.htm
+38220,39-2021.00,Nonfarm Animal Caretakers,http://www.bls.gov/soc/2010/soc392021.htm
+38290,39-3011.00,Gaming Dealers,http://www.bls.gov/soc/2010/soc393011.htm
+38360,39-3012.00,Gaming and Sports Book Writers and Runners,http://www.bls.gov/soc/2010/soc393012.htm
+38430,39-3021.00,Motion Picture Projectionists,http://www.bls.gov/soc/2010/soc393021.htm
+38500,39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",http://www.bls.gov/soc/2010/soc393031.htm
+38570,39-3091.00,Amusement and Recreation Attendants,http://www.bls.gov/soc/2010/soc393091.htm
+38640,39-3092.00,Costume Attendants,http://www.bls.gov/soc/2010/soc393092.htm
+38710,39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",http://www.bls.gov/soc/2010/soc393093.htm
+38780,39-4011.00,Embalmers,http://www.bls.gov/soc/2010/soc394011.htm
+38850,39-4021.00,Funeral Attendants,http://www.bls.gov/soc/2010/soc394021.htm
+38920,39-4031.00,"Morticians, Undertakers, and Funeral Directors",http://www.bls.gov/soc/2010/soc394031.htm
+38990,39-5011.00,Barbers,http://www.bls.gov/soc/2010/soc395011.htm
+39060,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",http://www.bls.gov/soc/2010/soc395012.htm
+39130,39-5091.00,"Makeup Artists, Theatrical and Performance",http://www.bls.gov/soc/2010/soc395091.htm
+39200,39-5092.00,Manicurists and Pedicurists,http://www.bls.gov/soc/2010/soc395092.htm
+39270,39-5093.00,Shampooers,http://www.bls.gov/soc/2010/soc395093.htm
+39340,39-5094.00,Skincare Specialists,http://www.bls.gov/soc/2010/soc395094.htm
+39410,39-6011.00,Baggage Porters and Bellhops,http://www.bls.gov/soc/2010/soc396011.htm
+39480,39-6012.00,Concierges,http://www.bls.gov/soc/2010/soc396012.htm
+39550,39-7011.00,Tour Guides and Escorts,http://www.bls.gov/soc/2010/soc397011.htm
+39620,39-7012.00,Travel Guides,http://www.bls.gov/soc/2010/soc397012.htm
+39690,39-9011.00,Childcare Workers,http://www.bls.gov/soc/2010/soc399011.htm
+39760,39-9011.01,Nannies,http://www.bls.gov/soc/2010/soc399011.htm
+39830,39-9021.00,Personal Care Aides,http://www.bls.gov/soc/2010/soc399021.htm
+39900,39-9031.00,Fitness Trainers and Aerobics Instructors,http://www.bls.gov/soc/2010/soc399031.htm
+39970,39-9032.00,Recreation Workers,http://www.bls.gov/soc/2010/soc399032.htm
+40040,39-9041.00,Residential Advisors,http://www.bls.gov/soc/2010/soc399041.htm
+40110,41-1011.00,First-Line Supervisors of Retail Sales Workers,http://www.bls.gov/soc/2010/soc411011.htm
+40180,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,http://www.bls.gov/soc/2010/soc411012.htm
+40250,41-2011.00,Cashiers,http://www.bls.gov/soc/2010/soc412011.htm
+40320,41-2012.00,Gaming Change Persons and Booth Cashiers,http://www.bls.gov/soc/2010/soc412012.htm
+40390,41-2021.00,Counter and Rental Clerks,http://www.bls.gov/soc/2010/soc412021.htm
+40460,41-2022.00,Parts Salespersons,http://www.bls.gov/soc/2010/soc412022.htm
+40530,41-2031.00,Retail Salespersons,http://www.bls.gov/soc/2010/soc412031.htm
+40600,41-3011.00,Advertising Sales Agents,http://www.bls.gov/soc/2010/soc413011.htm
+40670,41-3021.00,Insurance Sales Agents,http://www.bls.gov/soc/2010/soc413021.htm
+40740,41-3031.01,"Sales Agents, Securities and Commodities",http://www.bls.gov/soc/2010/soc413031.htm
+40810,41-3031.02,"Sales Agents, Financial Services",http://www.bls.gov/soc/2010/soc413031.htm
+40880,41-3031.03,Securities and Commodities Traders,http://www.bls.gov/soc/2010/soc413031.htm
+40950,41-3041.00,Travel Agents,http://www.bls.gov/soc/2010/soc413041.htm
+41020,41-3099.01,Energy Brokers,http://www.bls.gov/soc/2010/soc413099.htm
+41090,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",http://www.bls.gov/soc/2010/soc414011.htm
+41160,41-4011.07,Solar Sales Representatives and Assessors,http://www.bls.gov/soc/2010/soc414011.htm
+41230,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",http://www.bls.gov/soc/2010/soc414012.htm
+41300,41-9011.00,Demonstrators and Product Promoters,http://www.bls.gov/soc/2010/soc419011.htm
+41370,41-9012.00,Models,http://www.bls.gov/soc/2010/soc419012.htm
+41440,41-9021.00,Real Estate Brokers,http://www.bls.gov/soc/2010/soc419021.htm
+41510,41-9022.00,Real Estate Sales Agents,http://www.bls.gov/soc/2010/soc419022.htm
+41580,41-9031.00,Sales Engineers,http://www.bls.gov/soc/2010/soc419031.htm
+41650,41-9041.00,Telemarketers,http://www.bls.gov/soc/2010/soc419041.htm
+41720,41-9091.00,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",http://www.bls.gov/soc/2010/soc419091.htm
+41790,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,http://www.bls.gov/soc/2010/soc431011.htm
+41860,43-2011.00,"Switchboard Operators, Including Answering Service",http://www.bls.gov/soc/2010/soc432011.htm
+41930,43-2021.00,Telephone Operators,http://www.bls.gov/soc/2010/soc432021.htm
+42000,43-3011.00,Bill and Account Collectors,http://www.bls.gov/soc/2010/soc433011.htm
+42070,43-3021.01,Statement Clerks,http://www.bls.gov/soc/2010/soc433021.htm
+42140,43-3021.02,"Billing, Cost, and Rate Clerks",http://www.bls.gov/soc/2010/soc433021.htm
+42210,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",http://www.bls.gov/soc/2010/soc433031.htm
+42280,43-3041.00,Gaming Cage Workers,http://www.bls.gov/soc/2010/soc433041.htm
+42350,43-3051.00,Payroll and Timekeeping Clerks,http://www.bls.gov/soc/2010/soc433051.htm
+42420,43-3061.00,Procurement Clerks,http://www.bls.gov/soc/2010/soc433061.htm
+42490,43-3071.00,Tellers,http://www.bls.gov/soc/2010/soc433071.htm
+42560,43-4011.00,Brokerage Clerks,http://www.bls.gov/soc/2010/soc434011.htm
+42630,43-4021.00,Correspondence Clerks,http://www.bls.gov/soc/2010/soc434021.htm
+42700,43-4031.01,Court Clerks,http://www.bls.gov/soc/2010/soc434031.htm
+42770,43-4031.02,Municipal Clerks,http://www.bls.gov/soc/2010/soc434031.htm
+42840,43-4031.03,License Clerks,http://www.bls.gov/soc/2010/soc434031.htm
+42910,43-4041.01,Credit Authorizers,http://www.bls.gov/soc/2010/soc434041.htm
+42980,43-4041.02,Credit Checkers,http://www.bls.gov/soc/2010/soc434041.htm
+43050,43-4051.00,Customer Service Representatives,http://www.bls.gov/soc/2010/soc434051.htm
+43120,43-4051.03,Patient Representatives,http://www.bls.gov/soc/2010/soc434051.htm
+43190,43-4061.00,"Eligibility Interviewers, Government Programs",http://www.bls.gov/soc/2010/soc434061.htm
+43260,43-4071.00,File Clerks,http://www.bls.gov/soc/2010/soc434071.htm
+43330,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",http://www.bls.gov/soc/2010/soc434081.htm
+43400,43-4111.00,"Interviewers, Except Eligibility and Loan",http://www.bls.gov/soc/2010/soc434111.htm
+43470,43-4121.00,"Library Assistants, Clerical",http://www.bls.gov/soc/2010/soc434121.htm
+43540,43-4131.00,Loan Interviewers and Clerks,http://www.bls.gov/soc/2010/soc434131.htm
+43610,43-4141.00,New Accounts Clerks,http://www.bls.gov/soc/2010/soc434141.htm
+43680,43-4151.00,Order Clerks,http://www.bls.gov/soc/2010/soc434151.htm
+43750,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",http://www.bls.gov/soc/2010/soc434161.htm
+43820,43-4171.00,Receptionists and Information Clerks,http://www.bls.gov/soc/2010/soc434171.htm
+43890,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,http://www.bls.gov/soc/2010/soc434181.htm
+43960,43-5011.00,Cargo and Freight Agents,http://www.bls.gov/soc/2010/soc435011.htm
+44030,43-5011.01,Freight Forwarders,http://www.bls.gov/soc/2010/soc435011.htm
+44100,43-5021.00,Couriers and Messengers,http://www.bls.gov/soc/2010/soc435021.htm
+44170,43-5031.00,"Police, Fire, and Ambulance Dispatchers",http://www.bls.gov/soc/2010/soc435031.htm
+44240,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",http://www.bls.gov/soc/2010/soc435032.htm
+44310,43-5041.00,"Meter Readers, Utilities",http://www.bls.gov/soc/2010/soc435041.htm
+44380,43-5051.00,Postal Service Clerks,http://www.bls.gov/soc/2010/soc435051.htm
+44450,43-5052.00,Postal Service Mail Carriers,http://www.bls.gov/soc/2010/soc435052.htm
+44520,43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",http://www.bls.gov/soc/2010/soc435053.htm
+44590,43-5061.00,"Production, Planning, and Expediting Clerks",http://www.bls.gov/soc/2010/soc435061.htm
+44660,43-5071.00,"Shipping, Receiving, and Traffic Clerks",http://www.bls.gov/soc/2010/soc435071.htm
+44730,43-5081.01,"Stock Clerks, Sales Floor",http://www.bls.gov/soc/2010/soc435081.htm
+44800,43-5081.02,Marking Clerks,http://www.bls.gov/soc/2010/soc435081.htm
+44870,43-5081.03,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",http://www.bls.gov/soc/2010/soc435081.htm
+44940,43-5081.04,"Order Fillers, Wholesale and Retail Sales",http://www.bls.gov/soc/2010/soc435081.htm
+45010,43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",http://www.bls.gov/soc/2010/soc435111.htm
+45080,43-6011.00,Executive Secretaries and Executive Administrative Assistants,http://www.bls.gov/soc/2010/soc436011.htm
+45150,43-6012.00,Legal Secretaries,http://www.bls.gov/soc/2010/soc436012.htm
+45220,43-6013.00,Medical Secretaries,http://www.bls.gov/soc/2010/soc436013.htm
+45290,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",http://www.bls.gov/soc/2010/soc436014.htm
+45360,43-9011.00,Computer Operators,http://www.bls.gov/soc/2010/soc439011.htm
+45430,43-9021.00,Data Entry Keyers,http://www.bls.gov/soc/2010/soc439021.htm
+45500,43-9022.00,Word Processors and Typists,http://www.bls.gov/soc/2010/soc439022.htm
+45570,43-9031.00,Desktop Publishers,http://www.bls.gov/soc/2010/soc439031.htm
+45640,43-9041.01,Insurance Claims Clerks,http://www.bls.gov/soc/2010/soc439041.htm
+45710,43-9041.02,Insurance Policy Processing Clerks,http://www.bls.gov/soc/2010/soc439041.htm
+45780,43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",http://www.bls.gov/soc/2010/soc439051.htm
+45850,43-9061.00,"Office Clerks, General",http://www.bls.gov/soc/2010/soc439061.htm
+45920,43-9071.00,"Office Machine Operators, Except Computer",http://www.bls.gov/soc/2010/soc439071.htm
+45990,43-9081.00,Proofreaders and Copy Markers,http://www.bls.gov/soc/2010/soc439081.htm
+46060,43-9111.00,Statistical Assistants,http://www.bls.gov/soc/2010/soc439111.htm
+46130,43-9111.01,Bioinformatics Technicians,http://www.bls.gov/soc/2010/soc439111.htm
+46200,45-1011.05,First-Line Supervisors of Logging Workers,http://www.bls.gov/soc/2010/soc451011.htm
+46270,45-1011.06,First-Line Supervisors of Aquacultural Workers,http://www.bls.gov/soc/2010/soc451011.htm
+46340,45-1011.07,First-Line Supervisors of Agricultural Crop and Horticultural Workers,http://www.bls.gov/soc/2010/soc451011.htm
+46410,45-1011.08,First-Line Supervisors of Animal Husbandry and Animal Care Workers,http://www.bls.gov/soc/2010/soc451011.htm
+46480,45-2011.00,Agricultural Inspectors,http://www.bls.gov/soc/2010/soc452011.htm
+46550,45-2021.00,Animal Breeders,http://www.bls.gov/soc/2010/soc452021.htm
+46620,45-2041.00,"Graders and Sorters, Agricultural Products",http://www.bls.gov/soc/2010/soc452041.htm
+46690,45-2091.00,Agricultural Equipment Operators,http://www.bls.gov/soc/2010/soc452091.htm
+46760,45-2092.01,Nursery Workers,http://www.bls.gov/soc/2010/soc452092.htm
+46830,45-2092.02,"Farmworkers and Laborers, Crop",http://www.bls.gov/soc/2010/soc452092.htm
+46900,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",http://www.bls.gov/soc/2010/soc452093.htm
+46970,45-3011.00,Fishers and Related Fishing Workers,http://www.bls.gov/soc/2010/soc453011.htm
+47040,45-3021.00,Hunters and Trappers,http://www.bls.gov/soc/2010/soc453021.htm
+47110,45-4011.00,Forest and Conservation Workers,http://www.bls.gov/soc/2010/soc454011.htm
+47180,45-4021.00,Fallers,http://www.bls.gov/soc/2010/soc454021.htm
+47250,45-4022.00,Logging Equipment Operators,http://www.bls.gov/soc/2010/soc454022.htm
+47320,45-4023.00,Log Graders and Scalers,http://www.bls.gov/soc/2010/soc454023.htm
+47390,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,http://www.bls.gov/soc/2010/soc471011.htm
+47460,47-1011.03,Solar Energy Installation Managers,http://www.bls.gov/soc/2010/soc471011.htm
+47530,47-2011.00,Boilermakers,http://www.bls.gov/soc/2010/soc472011.htm
+47600,47-2021.00,Brickmasons and Blockmasons,http://www.bls.gov/soc/2010/soc472021.htm
+47670,47-2022.00,Stonemasons,http://www.bls.gov/soc/2010/soc472022.htm
+47740,47-2031.01,Construction Carpenters,http://www.bls.gov/soc/2010/soc472031.htm
+47810,47-2031.02,Rough Carpenters,http://www.bls.gov/soc/2010/soc472031.htm
+47880,47-2041.00,Carpet Installers,http://www.bls.gov/soc/2010/soc472041.htm
+47950,47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles",http://www.bls.gov/soc/2010/soc472042.htm
+48020,47-2043.00,Floor Sanders and Finishers,http://www.bls.gov/soc/2010/soc472043.htm
+48090,47-2044.00,Tile and Marble Setters,http://www.bls.gov/soc/2010/soc472044.htm
+48160,47-2051.00,Cement Masons and Concrete Finishers,http://www.bls.gov/soc/2010/soc472051.htm
+48230,47-2053.00,Terrazzo Workers and Finishers,http://www.bls.gov/soc/2010/soc472053.htm
+48300,47-2061.00,Construction Laborers,http://www.bls.gov/soc/2010/soc472061.htm
+48370,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",http://www.bls.gov/soc/2010/soc472071.htm
+48440,47-2072.00,Pile-Driver Operators,http://www.bls.gov/soc/2010/soc472072.htm
+48510,47-2073.00,Operating Engineers and Other Construction Equipment Operators,http://www.bls.gov/soc/2010/soc472073.htm
+48580,47-2081.00,Drywall and Ceiling Tile Installers,http://www.bls.gov/soc/2010/soc472081.htm
+48650,47-2082.00,Tapers,http://www.bls.gov/soc/2010/soc472082.htm
+48720,47-2111.00,Electricians,http://www.bls.gov/soc/2010/soc472111.htm
+48790,47-2121.00,Glaziers,http://www.bls.gov/soc/2010/soc472121.htm
+48860,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",http://www.bls.gov/soc/2010/soc472131.htm
+48930,47-2132.00,"Insulation Workers, Mechanical",http://www.bls.gov/soc/2010/soc472132.htm
+49000,47-2141.00,"Painters, Construction and Maintenance",http://www.bls.gov/soc/2010/soc472141.htm
+49070,47-2142.00,Paperhangers,http://www.bls.gov/soc/2010/soc472142.htm
+49140,47-2151.00,Pipelayers,http://www.bls.gov/soc/2010/soc472151.htm
+49210,47-2152.01,Pipe Fitters and Steamfitters,http://www.bls.gov/soc/2010/soc472152.htm
+49280,47-2152.02,Plumbers,http://www.bls.gov/soc/2010/soc472152.htm
+49350,47-2161.00,Plasterers and Stucco Masons,http://www.bls.gov/soc/2010/soc472161.htm
+49420,47-2171.00,Reinforcing Iron and Rebar Workers,http://www.bls.gov/soc/2010/soc472171.htm
+49490,47-2181.00,Roofers,http://www.bls.gov/soc/2010/soc472181.htm
+49560,47-2211.00,Sheet Metal Workers,http://www.bls.gov/soc/2010/soc472211.htm
+49630,47-2221.00,Structural Iron and Steel Workers,http://www.bls.gov/soc/2010/soc472221.htm
+49700,47-2231.00,Solar Photovoltaic Installers,http://www.bls.gov/soc/2010/soc472231.htm
+49770,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",http://www.bls.gov/soc/2010/soc473011.htm
+49840,47-3012.00,Helpers--Carpenters,http://www.bls.gov/soc/2010/soc473012.htm
+49910,47-3013.00,Helpers--Electricians,http://www.bls.gov/soc/2010/soc473013.htm
+49980,47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",http://www.bls.gov/soc/2010/soc473014.htm
+50050,47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",http://www.bls.gov/soc/2010/soc473015.htm
+50120,47-3016.00,Helpers--Roofers,http://www.bls.gov/soc/2010/soc473016.htm
+50190,47-4011.00,Construction and Building Inspectors,http://www.bls.gov/soc/2010/soc474011.htm
+50260,47-4021.00,Elevator Installers and Repairers,http://www.bls.gov/soc/2010/soc474021.htm
+50330,47-4031.00,Fence Erectors,http://www.bls.gov/soc/2010/soc474031.htm
+50400,47-4041.00,Hazardous Materials Removal Workers,http://www.bls.gov/soc/2010/soc474041.htm
+50470,47-4051.00,Highway Maintenance Workers,http://www.bls.gov/soc/2010/soc474051.htm
+50540,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,http://www.bls.gov/soc/2010/soc474061.htm
+50610,47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,http://www.bls.gov/soc/2010/soc474071.htm
+50680,47-4091.00,Segmental Pavers,http://www.bls.gov/soc/2010/soc474091.htm
+50750,47-4099.02,Solar Thermal Installers and Technicians,http://www.bls.gov/soc/2010/soc474099.htm
+50820,47-4099.03,Weatherization Installers and Technicians,http://www.bls.gov/soc/2010/soc474099.htm
+50890,47-5011.00,"Derrick Operators, Oil and Gas",http://www.bls.gov/soc/2010/soc475011.htm
+50960,47-5012.00,"Rotary Drill Operators, Oil and Gas",http://www.bls.gov/soc/2010/soc475012.htm
+51030,47-5013.00,"Service Unit Operators, Oil, Gas, and Mining",http://www.bls.gov/soc/2010/soc475013.htm
+51100,47-5021.00,"Earth Drillers, Except Oil and Gas",http://www.bls.gov/soc/2010/soc475021.htm
+51170,47-5031.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",http://www.bls.gov/soc/2010/soc475031.htm
+51240,47-5041.00,Continuous Mining Machine Operators,http://www.bls.gov/soc/2010/soc475041.htm
+51310,47-5042.00,Mine Cutting and Channeling Machine Operators,http://www.bls.gov/soc/2010/soc475042.htm
+51380,47-5051.00,"Rock Splitters, Quarry",http://www.bls.gov/soc/2010/soc475051.htm
+51450,47-5061.00,"Roof Bolters, Mining",http://www.bls.gov/soc/2010/soc475061.htm
+51520,47-5071.00,"Roustabouts, Oil and Gas",http://www.bls.gov/soc/2010/soc475071.htm
+51590,47-5081.00,Helpers--Extraction Workers,http://www.bls.gov/soc/2010/soc475081.htm
+51660,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",http://www.bls.gov/soc/2010/soc491011.htm
+51730,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",http://www.bls.gov/soc/2010/soc492011.htm
+51800,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",http://www.bls.gov/soc/2010/soc492021.htm
+51870,49-2021.01,Radio Mechanics,http://www.bls.gov/soc/2010/soc492021.htm
+51940,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",http://www.bls.gov/soc/2010/soc492022.htm
+52010,49-2091.00,Avionics Technicians,http://www.bls.gov/soc/2010/soc492091.htm
+52080,49-2092.00,"Electric Motor, Power Tool, and Related Repairers",http://www.bls.gov/soc/2010/soc492092.htm
+52150,49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment",http://www.bls.gov/soc/2010/soc492093.htm
+52220,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",http://www.bls.gov/soc/2010/soc492094.htm
+52290,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",http://www.bls.gov/soc/2010/soc492095.htm
+52360,49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles",http://www.bls.gov/soc/2010/soc492096.htm
+52430,49-2097.00,Electronic Home Entertainment Equipment Installers and Repairers,http://www.bls.gov/soc/2010/soc492097.htm
+52500,49-2098.00,Security and Fire Alarm Systems Installers,http://www.bls.gov/soc/2010/soc492098.htm
+52570,49-3011.00,Aircraft Mechanics and Service Technicians,http://www.bls.gov/soc/2010/soc493011.htm
+52640,49-3021.00,Automotive Body and Related Repairers,http://www.bls.gov/soc/2010/soc493021.htm
+52710,49-3022.00,Automotive Glass Installers and Repairers,http://www.bls.gov/soc/2010/soc493022.htm
+52780,49-3023.01,Automotive Master Mechanics,http://www.bls.gov/soc/2010/soc493023.htm
+52850,49-3023.02,Automotive Specialty Technicians,http://www.bls.gov/soc/2010/soc493023.htm
+52920,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,http://www.bls.gov/soc/2010/soc493031.htm
+52990,49-3041.00,Farm Equipment Mechanics and Service Technicians,http://www.bls.gov/soc/2010/soc493041.htm
+53060,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",http://www.bls.gov/soc/2010/soc493042.htm
+53130,49-3043.00,Rail Car Repairers,http://www.bls.gov/soc/2010/soc493043.htm
+53200,49-3051.00,Motorboat Mechanics and Service Technicians,http://www.bls.gov/soc/2010/soc493051.htm
+53270,49-3052.00,Motorcycle Mechanics,http://www.bls.gov/soc/2010/soc493052.htm
+53340,49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,http://www.bls.gov/soc/2010/soc493053.htm
+53410,49-3091.00,Bicycle Repairers,http://www.bls.gov/soc/2010/soc493091.htm
+53480,49-3092.00,Recreational Vehicle Service Technicians,http://www.bls.gov/soc/2010/soc493092.htm
+53550,49-3093.00,Tire Repairers and Changers,http://www.bls.gov/soc/2010/soc493093.htm
+53620,49-9011.00,Mechanical Door Repairers,http://www.bls.gov/soc/2010/soc499011.htm
+53690,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",http://www.bls.gov/soc/2010/soc499012.htm
+53760,49-9021.01,Heating and Air Conditioning Mechanics and Installers,http://www.bls.gov/soc/2010/soc499021.htm
+53830,49-9021.02,Refrigeration Mechanics and Installers,http://www.bls.gov/soc/2010/soc499021.htm
+53900,49-9031.00,Home Appliance Repairers,http://www.bls.gov/soc/2010/soc499031.htm
+53970,49-9041.00,Industrial Machinery Mechanics,http://www.bls.gov/soc/2010/soc499041.htm
+54040,49-9043.00,"Maintenance Workers, Machinery",http://www.bls.gov/soc/2010/soc499043.htm
+54110,49-9044.00,Millwrights,http://www.bls.gov/soc/2010/soc499044.htm
+54180,49-9045.00,"Refractory Materials Repairers, Except Brickmasons",http://www.bls.gov/soc/2010/soc499045.htm
+54250,49-9051.00,Electrical Power-Line Installers and Repairers,http://www.bls.gov/soc/2010/soc499051.htm
+54320,49-9052.00,Telecommunications Line Installers and Repairers,http://www.bls.gov/soc/2010/soc499052.htm
+54390,49-9061.00,Camera and Photographic Equipment Repairers,http://www.bls.gov/soc/2010/soc499061.htm
+54460,49-9062.00,Medical Equipment Repairers,http://www.bls.gov/soc/2010/soc499062.htm
+54530,49-9063.00,Musical Instrument Repairers and Tuners,http://www.bls.gov/soc/2010/soc499063.htm
+54600,49-9064.00,Watch Repairers,http://www.bls.gov/soc/2010/soc499064.htm
+54670,49-9071.00,"Maintenance and Repair Workers, General",http://www.bls.gov/soc/2010/soc499071.htm
+54740,49-9081.00,Wind Turbine Service Technicians,http://www.bls.gov/soc/2010/soc499081.htm
+54810,49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers",http://www.bls.gov/soc/2010/soc499091.htm
+54880,49-9092.00,Commercial Divers,http://www.bls.gov/soc/2010/soc499092.htm
+54950,49-9093.00,"Fabric Menders, Except Garment",http://www.bls.gov/soc/2010/soc499093.htm
+55020,49-9094.00,Locksmiths and Safe Repairers,http://www.bls.gov/soc/2010/soc499094.htm
+55090,49-9095.00,Manufactured Building and Mobile Home Installers,http://www.bls.gov/soc/2010/soc499095.htm
+55160,49-9096.00,Riggers,http://www.bls.gov/soc/2010/soc499096.htm
+55230,49-9097.00,Signal and Track Switch Repairers,http://www.bls.gov/soc/2010/soc499097.htm
+55300,49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers",http://www.bls.gov/soc/2010/soc499098.htm
+55370,49-9099.01,Geothermal Technicians,http://www.bls.gov/soc/2010/soc499099.htm
+55440,51-1011.00,First-Line Supervisors of Production and Operating Workers,http://www.bls.gov/soc/2010/soc511011.htm
+55510,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",http://www.bls.gov/soc/2010/soc512011.htm
+55580,51-2021.00,"Coil Winders, Tapers, and Finishers",http://www.bls.gov/soc/2010/soc512021.htm
+55650,51-2022.00,Electrical and Electronic Equipment Assemblers,http://www.bls.gov/soc/2010/soc512022.htm
+55720,51-2023.00,Electromechanical Equipment Assemblers,http://www.bls.gov/soc/2010/soc512023.htm
+55790,51-2031.00,Engine and Other Machine Assemblers,http://www.bls.gov/soc/2010/soc512031.htm
+55860,51-2041.00,Structural Metal Fabricators and Fitters,http://www.bls.gov/soc/2010/soc512041.htm
+55930,51-2091.00,Fiberglass Laminators and Fabricators,http://www.bls.gov/soc/2010/soc512091.htm
+56000,51-2092.00,Team Assemblers,http://www.bls.gov/soc/2010/soc512092.htm
+56070,51-2093.00,Timing Device Assemblers and Adjusters,http://www.bls.gov/soc/2010/soc512093.htm
+56140,51-3011.00,Bakers,http://www.bls.gov/soc/2010/soc513011.htm
+56210,51-3021.00,Butchers and Meat Cutters,http://www.bls.gov/soc/2010/soc513021.htm
+56280,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",http://www.bls.gov/soc/2010/soc513022.htm
+56350,51-3023.00,Slaughterers and Meat Packers,http://www.bls.gov/soc/2010/soc513023.htm
+56420,51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",http://www.bls.gov/soc/2010/soc513091.htm
+56490,51-3092.00,Food Batchmakers,http://www.bls.gov/soc/2010/soc513092.htm
+56560,51-3093.00,Food Cooking Machine Operators and Tenders,http://www.bls.gov/soc/2010/soc513093.htm
+56630,51-4011.00,"Computer-Controlled Machine Tool Operators, Metal and Plastic",http://www.bls.gov/soc/2010/soc514011.htm
+56700,51-4012.00,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",http://www.bls.gov/soc/2010/soc514012.htm
+56770,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514021.htm
+56840,51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514022.htm
+56910,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514023.htm
+56980,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514031.htm
+57050,51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514032.htm
+57120,51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514033.htm
+57190,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514034.htm
+57260,51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514035.htm
+57330,51-4041.00,Machinists,http://www.bls.gov/soc/2010/soc514041.htm
+57400,51-4051.00,Metal-Refining Furnace Operators and Tenders,http://www.bls.gov/soc/2010/soc514051.htm
+57470,51-4052.00,"Pourers and Casters, Metal",http://www.bls.gov/soc/2010/soc514052.htm
+57540,51-4061.00,"Model Makers, Metal and Plastic",http://www.bls.gov/soc/2010/soc514061.htm
+57610,51-4062.00,"Patternmakers, Metal and Plastic",http://www.bls.gov/soc/2010/soc514062.htm
+57680,51-4071.00,Foundry Mold and Coremakers,http://www.bls.gov/soc/2010/soc514071.htm
+57750,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514072.htm
+57820,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514081.htm
+57890,51-4111.00,Tool and Die Makers,http://www.bls.gov/soc/2010/soc514111.htm
+57960,51-4121.06,"Welders, Cutters, and Welder Fitters",http://www.bls.gov/soc/2010/soc514121.htm
+58030,51-4121.07,Solderers and Brazers,http://www.bls.gov/soc/2010/soc514121.htm
+58100,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc514122.htm
+58170,51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514191.htm
+58240,51-4192.00,"Layout Workers, Metal and Plastic",http://www.bls.gov/soc/2010/soc514192.htm
+58310,51-4193.00,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",http://www.bls.gov/soc/2010/soc514193.htm
+58380,51-4194.00,"Tool Grinders, Filers, and Sharpeners",http://www.bls.gov/soc/2010/soc514194.htm
+58450,51-5111.00,Prepress Technicians and Workers,http://www.bls.gov/soc/2010/soc515111.htm
+58520,51-5112.00,Printing Press Operators,http://www.bls.gov/soc/2010/soc515112.htm
+58590,51-5113.00,Print Binding and Finishing Workers,http://www.bls.gov/soc/2010/soc515113.htm
+58660,51-6011.00,Laundry and Dry-Cleaning Workers,http://www.bls.gov/soc/2010/soc516011.htm
+58730,51-6021.00,"Pressers, Textile, Garment, and Related Materials",http://www.bls.gov/soc/2010/soc516021.htm
+58800,51-6031.00,Sewing Machine Operators,http://www.bls.gov/soc/2010/soc516031.htm
+58870,51-6041.00,Shoe and Leather Workers and Repairers,http://www.bls.gov/soc/2010/soc516041.htm
+58940,51-6042.00,Shoe Machine Operators and Tenders,http://www.bls.gov/soc/2010/soc516042.htm
+59010,51-6051.00,"Sewers, Hand",http://www.bls.gov/soc/2010/soc516051.htm
+59080,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",http://www.bls.gov/soc/2010/soc516052.htm
+59150,51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,http://www.bls.gov/soc/2010/soc516061.htm
+59220,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc516062.htm
+59290,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc516063.htm
+59360,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc516064.htm
+59430,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",http://www.bls.gov/soc/2010/soc516091.htm
+59500,51-6092.00,Fabric and Apparel Patternmakers,http://www.bls.gov/soc/2010/soc516092.htm
+59570,51-6093.00,Upholsterers,http://www.bls.gov/soc/2010/soc516093.htm
+59640,51-7011.00,Cabinetmakers and Bench Carpenters,http://www.bls.gov/soc/2010/soc517011.htm
+59710,51-7021.00,Furniture Finishers,http://www.bls.gov/soc/2010/soc517021.htm
+59780,51-7031.00,"Model Makers, Wood",http://www.bls.gov/soc/2010/soc517031.htm
+59850,51-7032.00,"Patternmakers, Wood",http://www.bls.gov/soc/2010/soc517032.htm
+59920,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",http://www.bls.gov/soc/2010/soc517041.htm
+59990,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",http://www.bls.gov/soc/2010/soc517042.htm
+60060,51-8011.00,Nuclear Power Reactor Operators,http://www.bls.gov/soc/2010/soc518011.htm
+60130,51-8012.00,Power Distributors and Dispatchers,http://www.bls.gov/soc/2010/soc518012.htm
+60200,51-8013.00,Power Plant Operators,http://www.bls.gov/soc/2010/soc518013.htm
+60270,51-8021.00,Stationary Engineers and Boiler Operators,http://www.bls.gov/soc/2010/soc518021.htm
+60340,51-8031.00,Water and Wastewater Treatment Plant and System Operators,http://www.bls.gov/soc/2010/soc518031.htm
+60410,51-8091.00,Chemical Plant and System Operators,http://www.bls.gov/soc/2010/soc518091.htm
+60480,51-8092.00,Gas Plant Operators,http://www.bls.gov/soc/2010/soc518092.htm
+60550,51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",http://www.bls.gov/soc/2010/soc518093.htm
+60620,51-8099.03,Biomass Plant Technicians,http://www.bls.gov/soc/2010/soc518099.htm
+60690,51-9011.00,Chemical Equipment Operators and Tenders,http://www.bls.gov/soc/2010/soc519011.htm
+60760,51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519012.htm
+60830,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519021.htm
+60900,51-9022.00,"Grinding and Polishing Workers, Hand",http://www.bls.gov/soc/2010/soc519022.htm
+60970,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519023.htm
+61040,51-9031.00,"Cutters and Trimmers, Hand",http://www.bls.gov/soc/2010/soc519031.htm
+61110,51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519032.htm
+61180,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519041.htm
+61250,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",http://www.bls.gov/soc/2010/soc519051.htm
+61320,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",http://www.bls.gov/soc/2010/soc519061.htm
+61390,51-9071.01,Jewelers,http://www.bls.gov/soc/2010/soc519071.htm
+61460,51-9071.06,Gem and Diamond Workers,http://www.bls.gov/soc/2010/soc519071.htm
+61530,51-9071.07,Precious Metal Workers,http://www.bls.gov/soc/2010/soc519071.htm
+61600,51-9081.00,Dental Laboratory Technicians,http://www.bls.gov/soc/2010/soc519081.htm
+61670,51-9082.00,Medical Appliance Technicians,http://www.bls.gov/soc/2010/soc519082.htm
+61740,51-9083.00,Ophthalmic Laboratory Technicians,http://www.bls.gov/soc/2010/soc519083.htm
+61810,51-9111.00,Packaging and Filling Machine Operators and Tenders,http://www.bls.gov/soc/2010/soc519111.htm
+61880,51-9121.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519121.htm
+61950,51-9122.00,"Painters, Transportation Equipment",http://www.bls.gov/soc/2010/soc519122.htm
+62020,51-9123.00,"Painting, Coating, and Decorating Workers",http://www.bls.gov/soc/2010/soc519123.htm
+62090,51-9141.00,Semiconductor Processors,http://www.bls.gov/soc/2010/soc519141.htm
+62160,51-9151.00,Photographic Process Workers and Processing Machine Operators,http://www.bls.gov/soc/2010/soc519151.htm
+62230,51-9191.00,Adhesive Bonding Machine Operators and Tenders,http://www.bls.gov/soc/2010/soc519191.htm
+62300,51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",http://www.bls.gov/soc/2010/soc519192.htm
+62370,51-9193.00,Cooling and Freezing Equipment Operators and Tenders,http://www.bls.gov/soc/2010/soc519193.htm
+62440,51-9194.00,Etchers and Engravers,http://www.bls.gov/soc/2010/soc519194.htm
+62510,51-9195.03,"Stone Cutters and Carvers, Manufacturing",http://www.bls.gov/soc/2010/soc519195.htm
+62580,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",http://www.bls.gov/soc/2010/soc519195.htm
+62650,51-9195.05,"Potters, Manufacturing",http://www.bls.gov/soc/2010/soc519195.htm
+62720,51-9195.07,Molding and Casting Workers,http://www.bls.gov/soc/2010/soc519195.htm
+62790,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",http://www.bls.gov/soc/2010/soc519196.htm
+62860,51-9197.00,Tire Builders,http://www.bls.gov/soc/2010/soc519197.htm
+62930,51-9198.00,Helpers--Production Workers,http://www.bls.gov/soc/2010/soc519198.htm
+63000,51-9199.01,Recycling and Reclamation Workers,http://www.bls.gov/soc/2010/soc519199.htm
+63070,53-1011.00,Aircraft Cargo Handling Supervisors,http://www.bls.gov/soc/2010/soc531011.htm
+63140,53-1021.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",http://www.bls.gov/soc/2010/soc531021.htm
+63210,53-1021.01,Recycling Coordinators,http://www.bls.gov/soc/2010/soc531021.htm
+63280,53-1031.00,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,http://www.bls.gov/soc/2010/soc531031.htm
+63350,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",http://www.bls.gov/soc/2010/soc532011.htm
+63420,53-2012.00,Commercial Pilots,http://www.bls.gov/soc/2010/soc532012.htm
+63490,53-2021.00,Air Traffic Controllers,http://www.bls.gov/soc/2010/soc532021.htm
+63560,53-2022.00,Airfield Operations Specialists,http://www.bls.gov/soc/2010/soc532022.htm
+63630,53-2031.00,Flight Attendants,http://www.bls.gov/soc/2010/soc532031.htm
+63700,53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",http://www.bls.gov/soc/2010/soc533011.htm
+63770,53-3021.00,"Bus Drivers, Transit and Intercity",http://www.bls.gov/soc/2010/soc533021.htm
+63840,53-3022.00,"Bus Drivers, School or Special Client",http://www.bls.gov/soc/2010/soc533022.htm
+63910,53-3031.00,Driver/Sales Workers,http://www.bls.gov/soc/2010/soc533031.htm
+63980,53-3032.00,Heavy and Tractor-Trailer Truck Drivers,http://www.bls.gov/soc/2010/soc533032.htm
+64050,53-3033.00,Light Truck or Delivery Services Drivers,http://www.bls.gov/soc/2010/soc533033.htm
+64120,53-3041.00,Taxi Drivers and Chauffeurs,http://www.bls.gov/soc/2010/soc533041.htm
+64190,53-4011.00,Locomotive Engineers,http://www.bls.gov/soc/2010/soc534011.htm
+64260,53-4012.00,Locomotive Firers,http://www.bls.gov/soc/2010/soc534012.htm
+64330,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",http://www.bls.gov/soc/2010/soc534013.htm
+64400,53-4021.00,"Railroad Brake, Signal, and Switch Operators",http://www.bls.gov/soc/2010/soc534021.htm
+64470,53-4031.00,Railroad Conductors and Yardmasters,http://www.bls.gov/soc/2010/soc534031.htm
+64540,53-4041.00,Subway and Streetcar Operators,http://www.bls.gov/soc/2010/soc534041.htm
+64610,53-5011.00,Sailors and Marine Oilers,http://www.bls.gov/soc/2010/soc535011.htm
+64680,53-5021.01,Ship and Boat Captains,http://www.bls.gov/soc/2010/soc535021.htm
+64750,53-5021.02,"Mates- Ship, Boat, and Barge",http://www.bls.gov/soc/2010/soc535021.htm
+64820,53-5021.03,"Pilots, Ship",http://www.bls.gov/soc/2010/soc535021.htm
+64890,53-5022.00,Motorboat Operators,http://www.bls.gov/soc/2010/soc535022.htm
+64960,53-5031.00,Ship Engineers,http://www.bls.gov/soc/2010/soc535031.htm
+65030,53-6011.00,Bridge and Lock Tenders,http://www.bls.gov/soc/2010/soc536011.htm
+65100,53-6021.00,Parking Lot Attendants,http://www.bls.gov/soc/2010/soc536021.htm
+65170,53-6031.00,Automotive and Watercraft Service Attendants,http://www.bls.gov/soc/2010/soc536031.htm
+65240,53-6041.00,Traffic Technicians,http://www.bls.gov/soc/2010/soc536041.htm
+65310,53-6051.01,Aviation Inspectors,http://www.bls.gov/soc/2010/soc536051.htm
+65380,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",http://www.bls.gov/soc/2010/soc536051.htm
+65450,53-6051.08,Freight and Cargo Inspectors,http://www.bls.gov/soc/2010/soc536051.htm
+65520,53-6061.00,"Transportation Attendants, Except Flight Attendants",http://www.bls.gov/soc/2010/soc536061.htm
+65590,53-7011.00,Conveyor Operators and Tenders,http://www.bls.gov/soc/2010/soc537011.htm
+65660,53-7021.00,Crane and Tower Operators,http://www.bls.gov/soc/2010/soc537021.htm
+65730,53-7031.00,Dredge Operators,http://www.bls.gov/soc/2010/soc537031.htm
+65800,53-7032.00,Excavating and Loading Machine and Dragline Operators,http://www.bls.gov/soc/2010/soc537032.htm
+65870,53-7033.00,"Loading Machine Operators, Underground Mining",http://www.bls.gov/soc/2010/soc537033.htm
+65940,53-7041.00,Hoist and Winch Operators,http://www.bls.gov/soc/2010/soc537041.htm
+66010,53-7051.00,Industrial Truck and Tractor Operators,http://www.bls.gov/soc/2010/soc537051.htm
+66080,53-7061.00,Cleaners of Vehicles and Equipment,http://www.bls.gov/soc/2010/soc537061.htm
+66150,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",http://www.bls.gov/soc/2010/soc537062.htm
+66220,53-7063.00,Machine Feeders and Offbearers,http://www.bls.gov/soc/2010/soc537063.htm
+66290,53-7064.00,"Packers and Packagers, Hand",http://www.bls.gov/soc/2010/soc537064.htm
+66360,53-7071.00,Gas Compressor and Gas Pumping Station Operators,http://www.bls.gov/soc/2010/soc537071.htm
+66430,53-7072.00,"Pump Operators, Except Wellhead Pumpers",http://www.bls.gov/soc/2010/soc537072.htm
+66500,53-7073.00,Wellhead Pumpers,http://www.bls.gov/soc/2010/soc537073.htm
+66570,53-7081.00,Refuse and Recyclable Material Collectors,http://www.bls.gov/soc/2010/soc537081.htm
+66640,53-7111.00,Mine Shuttle Car Operators,http://www.bls.gov/soc/2010/soc537111.htm
+66710,53-7121.00,"Tank Car, Truck, and Ship Loaders",http://www.bls.gov/soc/2010/soc537121.htm
