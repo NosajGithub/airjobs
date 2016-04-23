@@ -4,28 +4,48 @@
 <head>
 
 <script src="js/sigma.js"></script>
+<script src="js/sigma.utils.js"></script>
+<script src="js/gexf-parser.js"></script>
+<script src="js/sigma.parsers.json.js"></script>
 <script src="js/sigma.parsers.gexf.js"></script>
+
 
 </head>
 
 <div id="sigma-container"></div>
 
+<script type="text/javascript">
 
-  <script>
+  var s = new sigma('container');
 
-  sigma.parsers.gexf(
-    '/data/test.gexf',
-    { // Here is the ID of the DOM element that
-      // will contain the graph:
-      container: 'sigma-container'
-    },
-    function(s) {
-      // This function will be executed when the
-      // graph is displayed, with "s" the related
-      // sigma instance.
-    }
-  );
+  // Then, let's add some data to display:
+  s.graph.addNode({
+    // Main attributes:
+    id: 'n0',
+    label: 'Hello',
+    // Display attributes:
+    x: 0,
+    y: 0,
+    size: 1,
+    color: '#f00'
+  }).addNode({
+    // Main attributes:
+    id: 'n1',
+    label: 'World !',
+    // Display attributes:
+    x: 1,
+    y: 1,
+    size: 1,
+    color: '#00f'
+  }).addEdge({
+    id: 'e0',
+    // Reference extremities:
+    source: 'n0',
+    target: 'n1'
+  });
+  // Finally, let's ask our sigma instance to refresh:
+  s.refresh();
+
 </script>
-
 
 </html>
