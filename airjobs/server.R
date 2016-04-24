@@ -204,7 +204,7 @@ get_jobs <- function(
   } else if (length(jobrank_col_index)==1) {
     score2 <- score2 + database_df[,jobrank_col_index]
   }
-  
+
   output_df <- data.frame(database_df[,c("o_net_soc_code","title")]
     , score = score1+score2
     , database_df[,c("education_level_required","salary_us")]
@@ -213,7 +213,7 @@ get_jobs <- function(
       ,knowledge_col_index
       ,geo_col_index
       ,salary_col_index)])
-  
+
   return(output_df)
   # returns df before filtering
 }
@@ -248,9 +248,13 @@ filter_jobs <- function (df, state_1 = "NA",
     filter(salary_min > min_salary_input & salary_max < max_salary_input) %>%
     select(., -c(salary_min, salary_max))
 
+  save_colnames <- colnames(df_res)
+  
   # Round values
   df_res <- cbind(df_res[,c(1,2,3,4)],round(df_res[,c(-1,-2,-3,-4)],2))
-  
+
+  colnames(df_res) <- save_colnames
+    
   # Turn education level into text
   df_res$education_level_required <- sapply(as.character(df_res$education_level_required), switch_education_back)
   
@@ -264,8 +268,6 @@ filter_jobs <- function (df, state_1 = "NA",
   if(!is.na(df_res$score[1])){
     df_res$score = round((df_res$score/max(df_res$score))*100,2)
   }
-  
-  
   
   return(df_res)
 }
