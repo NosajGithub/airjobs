@@ -47,13 +47,14 @@ Interests_OI <-
   Interests %>%
   filter(Scale.ID == 'OI') %>%
   select(O.NET.SOC.Code, Title, Element.Name, Data.Value) %>%
+  mutate(Data.Value = Data.Value * 5 / 7) %>%
   spread(Element.Name, Data.Value)  %>%
   data.frame()
 colnames(Interests_OI)[-c(1,2)] <- paste0('interests_',colnames(Interests_OI))[-c(1,2)]
 
 database <-
 Interests_OI  %>% 
-  full_join(Skills_level, by = c('O.NET.SOC.Code' = 'O.NET.SOC.Code', 'Title' = 'Title')) %>%
+  full_join(Skills_importance, by = c('O.NET.SOC.Code' = 'O.NET.SOC.Code', 'Title' = 'Title')) %>%
   full_join(Knowledge_importance, by = c('O.NET.SOC.Code' = 'O.NET.SOC.Code', 'Title' = 'Title'))  %>%
   full_join(education_required_25pctl, by = c('O.NET.SOC.Code' = 'O.NET.SOC.Code', 'Title' = 'Title')) %>%
   mutate(O.NET.SOC.Code_short = substr(as.character(O.NET.SOC.Code), 1, 7)) %>%
