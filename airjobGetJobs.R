@@ -64,20 +64,20 @@ get_jobs <- function(
   salary_col_index = c(184:235)[na.omit(match(col_names_nonna,substring(names(database_df)[184:235],first=8)))]
   
   score1 <- rep(0,num_jobs)
-  if(length(skills_col_index>0)){
+  if(length(skills_col_index) > 0){
     score1 <- score1 + as.matrix(database_df[,skills_col_index])%*%skills_weights
   }
-  if(length(interest_col_index>0)){
+  if(length(interest_col_index) > 0){
     score1 <- score1 + as.matrix(database_df[,interest_col_index])%*%interest_weights
   }
-  if(length(knowledge_col_index>0)){
+  if(length(knowledge_col_index) > 0){
     score1 <- score1 + as.matrix(database_df[,knowledge_col_index])%*%knowledge_weights
   }
   score1 <- score1/(max(score1)-min(score1))
   
   score2 <- rep(0,num_jobs)
   if(length(jobrank_col_index) >= 2){
-    score2 <- score2 + rowMeans(database_df[,jobrank_col_index]) 
+    score2 <- score2 + rowMeans(database_df[,jobrank_col_index])
   } else if (length(jobrank_col_index)==1) {
     score2 <- score2 + database_df[,jobrank_col_index]
   }
@@ -88,7 +88,7 @@ get_jobs <- function(
                                            ,knowledge_col_index
                                            ,geo_col_index
                                            ,salary_col_index)]
-                          , score = score1+score2)
+                          , score = score1 + score2)
   
   return(output_df)
   # returns df before filtering
