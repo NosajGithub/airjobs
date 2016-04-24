@@ -260,11 +260,11 @@ filter_jobs <- function (df, state_1 = "NA",
   df_res$education_level_required <- sapply(as.character(df_res$education_level_required), switch_education_back)
   
   # Fix currency column display output, pull salary fields together
-  for (i in 1:length(colnames(df_res))){
-    if(grepl("salary_",colnames(df_res)[i])){
-      df_res[,colnames(df_res)[i]] <- dollar(df_res[,colnames(df_res)[i]])
-    }
-  }
+  # for (i in 1:length(colnames(df_res))){
+  #   if(grepl("salary_",colnames(df_res)[i])){
+  #     df_res[,colnames(df_res)[i]] <- dollar(df_res[,colnames(df_res)[i]])
+  #   }
+  # }
   
   if(!is.na(df_res$score[1])){
     df_res$score = round((df_res$score/max(df_res$score))*100,2)

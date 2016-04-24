@@ -46,7 +46,7 @@ shinyUI(
   fluidPage(theme = "bootstrap.css",    
     
     # Give the page a title
-    titlePanel("Job Explorer"),
+    titlePanel("AirJobs"),
     
     ### Skills
     fluidRow(
