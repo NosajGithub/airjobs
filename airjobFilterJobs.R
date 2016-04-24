@@ -122,4 +122,6 @@ return(df_res)
 }
 
 # Example Output
+db_filtered <- 
 filter_jobs(tmpoutput, state_1 = 'california', state_2 = 'new_york', min_salary_input = 100000, max_salary_input = 140000)
+write.csv(db_filtered, file = '~/airjobs/reshaped_data/database_output_example.csv')
