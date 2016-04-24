@@ -22,17 +22,18 @@ OESM_reshaped <- OESM %>%
          , occ.title
          , state
          , jobrankscore
+         , jobs1k = jobs_1000
 #         , jobsquo = loc_quotient
          , salary = a_median
   ) %>% 
-  gather("attribute","value", 4:5) %>%
+  gather("attribute","value", 4:6) %>%
   unite(attribute_state, attribute, state) %>% 
   spread(attribute_state, value)
 
 names(OESM_reshaped)[1:2] <- c("occ_code","occ_title")
 
 missing_fun <- function(x){return(ifelse(is.na(x),0,x))}
-OESM_reshaped[,3:53] <- OESM_reshaped[,3:53] %>% 
+OESM_reshaped[,3:104] <- OESM_reshaped[,3:104] %>% 
   mutate_each(funs(missing_fun))
 
 summary(OESM_reshaped)
