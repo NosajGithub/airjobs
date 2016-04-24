@@ -1,57 +1,67 @@
 get_jobs <- function(
   database_df = database_df
-  ,  skill_col_1 = NA
-  ,  skill_col_2 = NA
-  ,  skill_col_3 = NA
-  ,  skill_col_4 = NA
-  ,  skill_col_5 = NA
+  ,  skill_col_1 = "Choose"
+  ,  skill_col_2 = "Choose"
+  ,  skill_col_3 = "Choose"
+  ,  skill_col_4 = "Choose"
+  ,  skill_col_5 = "Choose"
   
-  , skill_weight_1 = NA
-  , skill_weight_2 = NA
-  , skill_weight_3 = NA
-  , skill_weight_4 = NA
-  , skill_weight_5 = NA
+  , skill_weight_1 = "Choose"
+  , skill_weight_2 = "Choose"
+  , skill_weight_3 = "Choose"
+  , skill_weight_4 = "Choose"
+  , skill_weight_5 = "Choose"
   
-  ,  interest_1 = NA
-  ,  interest_2 = NA
-  ,  interest_3 = NA
+  ,  interest_1 = "Choose"
+  ,  interest_2 = "Choose"
+  ,  interest_3 = "Choose"
   
-  , interest_weight_1 = NA
-  , interest_weight_2 = NA
-  , interest_weight_3 = NA
+  , interest_weight_1 = "Choose"
+  , interest_weight_2 = "Choose"
+  , interest_weight_3 = "Choose"
   
-  ,  knowledge_1 = NA
-  ,  knowledge_2 = NA
-  ,  knowledge_3 = NA
-  ,  knowledge_4 = NA
-  ,  knowledge_5 = NA
+  ,  knowledge_1 = "Choose"
+  ,  knowledge_2 = "Choose"
+  ,  knowledge_3 = "Choose"
+  ,  knowledge_4 = "Choose"
+  ,  knowledge_5 = "Choose"
   
-  ,  knowledge_weight_1 = NA
-  ,  knowledge_weight_2 = NA
-  ,  knowledge_weight_3 = NA
-  ,  knowledge_weight_4 = NA
-  ,  knowledge_weight_5 = NA
+  ,  knowledge_weight_1 = "Choose"
+  ,  knowledge_weight_2 = "Choose"
+  ,  knowledge_weight_3 = "Choose"
+  ,  knowledge_weight_4 = "Choose"
+  ,  knowledge_weight_5 = "Choose"
   
-  ,  state_1 = NA
-  ,  state_2 = NA
-  ,  state_3 = NA
+  ,  state_1 = "Choose"
+  ,  state_2 = "Choose"
+  ,  state_3 = "Choose"
   
-  , education_level = NA
+  , education_level = "Choose"
   
-  , max_wage = NA
-  , min_wage = NA
+  , max_wage = "Choose"
+  , min_wage = "Choose"
 ){
   num_jobs <- dim(database_df)[1]
-  skills_col_index = c(10:45)[na.omit(match(c(skill_col_1,skill_col_2,skill_col_3,skill_col_4,skill_col_5),substring(names(database_df)[10:45],first = 8)))]
-  interest_col_index = c(4:9)[na.omit(match(c(interest_1,interest_2,interest_3),substring(names(database_df)[4:9],first=11)))]
-  knowledge_col_index = c(46:78)[na.omit(match(c(knowledge_1,knowledge_2,knowledge_3,knowledge_4,knowledge_4,knowledge_5),substring(names(database_df)[46:78],first = 11)))]
-  jobrank_col_index = c(82:132)[na.omit(match(c(state_1, state_2, state_3),substring(names(database_df)[82:132], first = 14)))]
-  geo_col_index = c(133:183)[na.omit(match(c(state_1, state_2, state_3),substring(names(database_df)[133:183],first = 8)))]
-  salary_col_index = c(184:235)[na.omit(match(c(state_1, state_2, state_3),substring(names(database_df)[184:235],first=8)))]
+  col_names <- c(skill_col_1,skill_col_2,skill_col_3,skill_col_4,skill_col_5)
+  col_names_nonna <- col_names[-grep("Choose",col_names)]
+  skills_col_index = c(10:45)[na.omit(match(col_names_nonna,substring(names(database_df)[10:45],first = 8)))]
+  skills_weights = as.numeric(c(skill_weight_1,skill_weight_2,skill_weight_3,skill_weight_4,skill_col_5)[-grep("Choose",col_names)])
   
-  skills_weights = na.omit(c(skill_weight_1,skill_weight_2,skill_weight_3,skill_weight_4,skill_col_5))
-  interest_weights = na.omit(c(interest_weight_1,interest_weight_2,interest_weight_3))
-  knowledge_weights = na.omit(c(knowledge_weight_1,knowledge_weight_2,knowledge_weight_3, knowledge_weight_4, knowledge_weight_5))
+  col_names <- c(interest_1,interest_2,interest_3)
+  col_names_nonna <- col_names[-grep("Choose",col_names)]
+  interest_col_index = c(4:9)[na.omit(match(col_names_nonna,substring(names(database_df)[4:9],first=11)))]
+  interest_weights = as.numeric(c(interest_weight_1,interest_weight_2,interest_weight_3)[-grep("Choose",col_names)])
+  
+  col_names <- c(knowledge_1,knowledge_2,knowledge_3,knowledge_4,knowledge_4,knowledge_5)
+  col_names_nonna <- col_names[-grep("Choose",col_names)]
+  knowledge_col_index = c(46:78)[na.omit(match(col_names_nonna,substring(names(database_df)[46:78],first = 11)))]
+  knowledge_weights = as.numeric(c(knowledge_weight_1,knowledge_weight_2,knowledge_weight_3, knowledge_weight_4, knowledge_weight_5)[-grep("Choose",col_names)])
+  
+  col_names <- c(state_1, state_2, state_3)
+  col_names_nonna <- col_names[-grep("Choose",col_names)]
+  jobrank_col_index = c(82:132)[na.omit(match(col_names_nonna,substring(names(database_df)[82:132], first = 14)))]
+  geo_col_index = c(133:183)[na.omit(match(col_names_nonna,substring(names(database_df)[133:183],first = 8)))]
+  salary_col_index = c(184:235)[na.omit(match(col_names_nonna,substring(names(database_df)[184:235],first=8)))]
   
   score1 <- rep(0,num_jobs)
   if(length(skills_col_index>0)){
