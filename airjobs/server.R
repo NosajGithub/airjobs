@@ -1,5 +1,6 @@
 require(shiny)
 require(dplyr)
+require(scales)
 
 all_df <- read.csv("../reshaped_data/database.csv")
 
@@ -215,13 +216,6 @@ get_jobs <- function(
   # Round values
   output_df <- cbind(output_df[,c(1,2)],round(output_df[,c(-1,-2)],2))
   
-  
-  print(output_df$education_level_required[1])
-  print(switch_education_back(output_df$education_level_required[1]))
-  
-  # output_df$education_level_required <-
-  #   sapply(as.character(output_df$education_level_required), switch_education_back)
-  
   return(output_df)
   # returns df before filtering
 }
@@ -256,6 +250,19 @@ filter_jobs <- function (df, state_1 = "NA",
     filter(salary_min > min_salary_input & salary_max < max_salary_input) %>%
     select(., -c(salary_min, salary_max))
 
+  # Turn education level into text
+  df_res$education_level_required <- sapply(as.character(df_res$education_level_required), switch_education_back)
+  
+  print(colnames(df_res))
+  
+  for (i in 1:length(colnames(df_res))){
+    print("salary_" %in% colnames(df_res)[i])
+    
+        if(grepl("salary_",colnames(df_res)[i])){
+      df_res[,colnames(df_res)[i]] <- dollar(df_res[,colnames(df_res)[i]])
+    }
+  }
+  
   return(df_res)
 }
 
