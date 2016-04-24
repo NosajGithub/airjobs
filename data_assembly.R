@@ -83,8 +83,8 @@ database[, 'education_level_required'] <-
 
 database[, 'education_level_required_description'] <-
   database %>% 
-  select(education_level_required) %>%
-  mutate_each(funs(mysum = ifelse(is.na(.), 'Less than a High School Diploma', .))) %>% 
+  select(education_level_required_description) %>%
+  mutate(education_level_required_description = ifelse(is.na(education_level_required_description), 'Less than a High School Diploma', as.character(education_level_required_description))) %>% 
   data.frame()
 
 colnames(database) <- gsub("[.]", "_", colnames(database))
