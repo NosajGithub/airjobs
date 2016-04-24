@@ -25,6 +25,23 @@ OESM_reshaped <- OESM %>%
   unite(attribute_state, attribute, state) %>% 
   spread(attribute_state, value)
 
+OESM %>% 
+  filter(area_type==1
+         , naics_title == "Cross-industry"
+         ) %>%
+  select(occ.code, a_median) %>% 
+  ggplot() +
+  geom_histogram(aes(x = a_median))
+
+salary_national <- OESM %>% 
+  filter(area_type==1
+         , naics_title == "Cross-industry"
+  ) %>%
+  select(occ.code, salary_US = a_median) 
+
+OESM_reshaped %<>% 
+  inner_join(salary_national, by = "occ.code")
+
 Skills %<>%
   mutate(occ.code = substr(O.NET.SOC.Code,1,7))
 
@@ -32,4 +49,4 @@ OESM_reshaped %>%
   filter(occ.code %in% setdiff(OESM_reshaped$occ.code, Skills$occ.code)) %>% 
   select(occ.title) %>% as.data.frame()
 
-write.csv(OESM_reshaped,file = "geo_salary.csv", row.names = FALSE, col.names = TRUE)
+write.csv(OESM_reshaped,file = "geo_salary.csv", row.names = FALSE)
