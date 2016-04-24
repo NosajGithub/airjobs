@@ -1,3 +1,6 @@
+##############################################################
+####             Kelsey Jiang 04/24/2016                  #### 
+##############################################################
 library(tidyr)
 library(dplyr)
 
@@ -105,5 +108,4 @@ database[, 183:234] <-
 #write.csv(Knowledge_importance, file = 'knowledge_importance.csv')
 #write.csv(Knowledge_level, file = 'knowledge_level.csv')
 #write.csv(Interests_OI, file = 'interests_OI.csv')
-write.csv(database, file = '~/airjobs/reshaped_data/database.csv')
-
+#write.csv(database, file = '~/airjobs/reshaped_data/database.csv')
