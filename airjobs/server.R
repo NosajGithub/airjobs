@@ -208,11 +208,12 @@ get_jobs <- function(
   output_df <- data.frame(database_df[,c("o_net_soc_code","title")]
     , score = score1+score2
     , database_df[,c("education_level_required","salary_us")]
-    , database_df[,c(skills_col_index
+    , database_df[,c(salary_col_index
+      ,geo_col_index
+      ,skills_col_index
       ,interest_col_index
       ,knowledge_col_index
-      ,geo_col_index
-      ,salary_col_index)])
+      )])
 
   return(output_df)
   # returns df before filtering
@@ -258,7 +259,7 @@ filter_jobs <- function (df, state_1 = "NA",
   # Turn education level into text
   df_res$education_level_required <- sapply(as.character(df_res$education_level_required), switch_education_back)
   
-  # Fix currency column display output
+  # Fix currency column display output, pull salary fields together
   for (i in 1:length(colnames(df_res))){
     if(grepl("salary_",colnames(df_res)[i])){
       df_res[,colnames(df_res)[i]] <- dollar(df_res[,colnames(df_res)[i]])
