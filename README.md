@@ -23,8 +23,6 @@ The first image shows the tool in action, with some skills input into the tool.
 The second image shows the tool shows the tool's top recommendations given a set of input preferences.
 <img src=airjobs_02.png>
 
-Image 2:
-
 #### Past Context
 
 [MyNextMove](https://www.mynextmove.org/) is a helpful site that leverages the Department of Labor's data about jobs. It allows you to search for careers
