@@ -109,6 +109,7 @@ shinyServer(function(input, output) {
         education_level = switch_education(input$education_level)
         )
       
+      
     },
     options = list(pagingType = "simple", 
       searching = FALSE, paging = FALSE, searchable = FALSE,
@@ -213,9 +214,6 @@ get_jobs <- function(
       ,geo_col_index
       ,salary_col_index)])
   
-  # Round values
-  output_df <- cbind(output_df[,c(1,2)],round(output_df[,c(-1,-2)],2))
-  
   return(output_df)
   # returns df before filtering
 }
@@ -250,18 +248,24 @@ filter_jobs <- function (df, state_1 = "NA",
     filter(salary_min > min_salary_input & salary_max < max_salary_input) %>%
     select(., -c(salary_min, salary_max))
 
+  # Round values
+  df_res <- cbind(df_res[,c(1,2,3,4)],round(df_res[,c(-1,-2,-3,-4)],2))
+  
   # Turn education level into text
   df_res$education_level_required <- sapply(as.character(df_res$education_level_required), switch_education_back)
   
-  print(colnames(df_res))
-  
+  # Fix currency column display output
   for (i in 1:length(colnames(df_res))){
-    print("salary_" %in% colnames(df_res)[i])
-    
-        if(grepl("salary_",colnames(df_res)[i])){
+    if(grepl("salary_",colnames(df_res)[i])){
       df_res[,colnames(df_res)[i]] <- dollar(df_res[,colnames(df_res)[i]])
     }
   }
+  
+  if(!is.na(df_res$score[1])){
+    df_res$score = round((df_res$score/max(df_res$score))*100,2)
+  }
+  
+  
   
   return(df_res)
 }
