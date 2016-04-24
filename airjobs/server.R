@@ -108,11 +108,12 @@ shinyServer(function(input, output) {
         education_level = switch_education(input$education_level)
         )
       
-
     },
     options = list(pagingType = "simple", 
       searching = FALSE, paging = FALSE, searchable = FALSE,
-      order = list(list(2, 'desc')))
+      order = list(list(2, 'desc'), list(4, 'asc'))
+      )
+    
   )
     
 })
@@ -214,8 +215,12 @@ get_jobs <- function(
   # Round values
   output_df <- cbind(output_df[,c(1,2)],round(output_df[,c(-1,-2)],2))
   
-  # output_df$education_level_required <- 
-  #   lapply(as.character(output_df$education_level_required), switch_education_back)
+  
+  print(output_df$education_level_required[1])
+  print(switch_education_back(output_df$education_level_required[1]))
+  
+  # output_df$education_level_required <-
+  #   sapply(as.character(output_df$education_level_required), switch_education_back)
   
   return(output_df)
   # returns df before filtering
