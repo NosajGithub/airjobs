@@ -1,3 +1,6 @@
+##############################################################
+####             Kelsey Jiang 04/24/2016                  #### 
+##############################################################
 library(tidyr)
 library(dplyr)
 
@@ -80,8 +83,8 @@ database[, 'education_level_required'] <-
 
 database[, 'education_level_required_description'] <-
   database %>% 
-  select(education_level_required) %>%
-  mutate_each(funs(mysum = ifelse(is.na(.), 'Less than a High School Diploma', .))) %>% 
+  select(education_level_required_description) %>%
+  mutate(education_level_required_description = ifelse(is.na(education_level_required_description), 'Less than a High School Diploma', as.character(education_level_required_description))) %>% 
   data.frame()
 
 colnames(database) <- gsub("[.]", "_", colnames(database))
@@ -105,5 +108,4 @@ database[, 183:234] <-
 #write.csv(Knowledge_importance, file = 'knowledge_importance.csv')
 #write.csv(Knowledge_level, file = 'knowledge_level.csv')
 #write.csv(Interests_OI, file = 'interests_OI.csv')
-write.csv(database, file = '~/airjobs/reshaped_data/database.csv')
-
+#write.csv(database, file = '~/airjobs/reshaped_data/database.csv')
